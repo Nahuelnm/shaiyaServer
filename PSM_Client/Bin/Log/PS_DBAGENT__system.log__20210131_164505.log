@@ -1,0 +1,7 @@
+2021-01-31 16:45:05 PS_DBAGENT__system log start (DBAgent01)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_dbAgent.exe, loaded at 0x00400000 - 11/09/14 16:20:57
+2021-01-31 16:45:20 ### Connect[7164] : Game[?][0x01430E50], Addr=127.0.0.1, DBJobEnd=1
+2021-01-31 16:45:20 ### Connect[7164] : Game[?][0x0145CFB8], Addr=127.0.0.1, DBJobEnd=2
+2021-01-31 16:45:20 ### DB_SYSTEM_CONNECT[7036] :Game[1][0x01430E50], Name=Game01, Addr=127.0.0.1
+2021-01-31 16:45:20 Error Packet : 0x209, CConnection::PacketSystemConnect

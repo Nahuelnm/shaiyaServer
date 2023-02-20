@@ -1,0 +1,192 @@
+2021-02-06 13:37:48 PS_GAME__system log start (Game01) [KR]
+2021-02-06 13:37:48 Loaded Behavior In Factory : data/ai/sorp1
+2021-02-06 13:37:48 Loaded Behavior In Factory : data/ai/croco1
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/croco2
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/Troll1
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/Spink1
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/GoldenPig
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/Sorp3
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/SorpNamed1
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/SorpNamed2
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/Sorp2
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/CrocoNamed1
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/CrocoNamed2
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/CrocoNamed3
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/OrcNamed1
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/OrcNamed2
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/OrcNamed3
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/TrollNamed1
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/HellTouthNamed1
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/Deinos
+2021-02-06 13:37:49 Loaded Behavior In Factory : data/ai/Parridalis
+2021-02-06 13:37:50 Loaded Behavior In Factory : data/ai/Alcarian
+2021-02-06 13:37:50 Loaded Behavior In Factory : data/ai/ZinAlcaria
+2021-02-06 13:37:50 Loaded Behavior In Factory : data/ai/Belizabeth
+2021-02-06 13:37:50 Loaded Behavior In Factory : data/ai/Kirhiross
+2021-02-06 13:37:50 Loaded Behavior In Factory : data/ai/CrypticOne
+2021-02-06 13:37:50 RandomOption Error : ItemID=1056, byServer=4, Wis=0
+2021-02-06 13:37:50 RandomOption Error : ItemID=7197, byServer=3, Wis=0
+2021-02-06 13:37:50 RandomOption Error : ItemID=7198, byServer=3, Wis=0
+2021-02-06 13:37:50 RandomOption Error : ItemID=7215, byServer=3, Wis=0
+2021-02-06 13:37:50 RandomOption Error : ItemID=7217, byServer=3, Wis=0
+2021-02-06 13:37:50 RandomOption Error : ItemID=7218, byServer=3, Wis=0
+2021-02-06 13:37:50 RandomOption Error : ItemID=7219, byServer=3, Wis=0
+2021-02-06 13:37:50 RandomOption Error : ItemID=7249, byServer=4, Wis=0
+2021-02-06 13:37:50 RandomOption Error : ItemID=7250, byServer=4, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=44039, byServer=5, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=44040, byServer=3, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=44041, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120123, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120124, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120125, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120156, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120157, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120158, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120159, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120160, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120161, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120162, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120163, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120164, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120165, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120166, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120167, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120168, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120169, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120170, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120171, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120172, byServer=2, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120173, byServer=1, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120174, byServer=1, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120175, byServer=1, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120176, byServer=1, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120177, byServer=1, Wis=0
+2021-02-06 13:37:51 RandomOption Error : ItemID=120178, byServer=1, Wis=0
+2021-02-06 13:38:01 connect mgr 1284
+2021-02-06 13:38:01 connect dbagent 1288
+2021-02-06 13:38:01 connect dbagent2 1292
+2021-02-06 13:38:01 connect gamelog 1308
+2021-02-06 13:38:01 Market End -----------------------
+2021-02-06 13:38:16 <Console input> /nprotectoff
+2021-02-06 13:38:16 <Console output> cmd NProtect off ok
+2021-02-06 13:48:10 error exp min usern=gmnitrous,charn=Nitrous, level=70,exp=69999999,exppv=70000000
+2021-02-06 14:04:53 error exp over usern=gmnitrous,charn=Nitrous, level=70,exp=70000000,exppn=70000000
+2021-02-06 14:38:14 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-06 15:06:07 error exp min usern=gmnitrous,charn=[DEV]Nitrous, level=70,exp=69999999,exppv=70000000
+2021-02-06 15:14:52 error exp over usern=nitrous.n2o,charn=[GM]Nitrous, level=70,exp=70000000,exppn=70000000
+2021-02-06 15:38:17 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-06 16:00:39 error exp over usern=gmnitrous,charn=[DEV]Nitrous, level=70,exp=70000000,exppn=70000000
+2021-02-06 16:15:14 error exp min usern=gmNitrous,charn=[DEV]Nitrous, level=70,exp=69999999,exppv=70000000
+2021-02-06 16:38:20 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-06 17:11:10 error exp min usern=Nitrous.n2o,charn=[GM]Nitrous, level=70,exp=69999999,exppv=70000000
+2021-02-06 17:38:23 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-06 17:55:27 error exp over usern=Nitrous.n2o,charn=[GM]Nitrous, level=70,exp=70000000,exppn=70000000
+2021-02-06 18:05:15 error exp min usern=Nitrous.n2o,charn=[GM]Nitrous, level=70,exp=69999999,exppv=70000000
+2021-02-06 18:10:27 error exp over usern=Nitrous.n2o,charn=[GM]Nitrous, level=70,exp=70000000,exppn=70000000
+2021-02-06 18:13:28 error exp over usern=gmnitrous,charn=[DEV]Nitrous, level=70,exp=70000000,exppn=70000000
+2021-02-06 18:38:26 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-06 18:47:52 error exp min usern=Nitrous.n2o,charn=[GM]Nitrous, level=70,exp=69999999,exppv=70000000
+2021-02-06 19:38:29 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-06 20:38:32 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-06 21:07:42 error exp over usern=Nitrous.n2o,charn=[GM]Nitrous, level=70,exp=70000000,exppn=70000000
+2021-02-06 21:38:35 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-06 22:38:38 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-06 23:38:40 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 00:38:43 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 01:38:46 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 02:38:49 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 03:38:51 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 04:38:54 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 05:38:57 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 06:39:00 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 07:39:03 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 08:39:06 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 09:07:05 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1444)
+2021-02-07 09:07:05 discon client: (  5,   121) T=000:03:00:000, RC=9,RCS=0, RB=92,RBS=0, SC=199,SCS=0, SB=3626,SBS=15
+2021-02-07 09:12:29 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1444)
+2021-02-07 09:12:29 discon client: (  5,   121) T=000:02:00:000, RC=50,RCS=0, RB=874,RBS=6, SC=322,SCS=2, SB=5736,SBS=42
+2021-02-07 09:39:08 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 10:39:11 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 11:18:25 error exp over usern=gmnitrousf,charn=Nitro, level=70,exp=70000000,exppn=70000000
+2021-02-07 11:39:14 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 12:02:34 error exp min usern=gmnitrousf,charn=Nitro, level=70,exp=69999999,exppv=70000000
+2021-02-07 12:39:17 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 13:39:19 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 14:13:15 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1464)
+2021-02-07 14:13:15 discon client: (  5,   121) T=000:01:00:000, RC=5,RCS=0, RB=52,RBS=0, SC=25,SCS=0, SB=2237,SBS=23
+2021-02-07 14:39:22 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 14:59:42 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1464)
+2021-02-07 14:59:42 discon client: (  5,   121) T=000:02:00:000, RC=37,RCS=0, RB=316,RBS=2, SC=288,SCS=2, SB=4996,SBS=34
+2021-02-07 15:02:44 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1460)
+2021-02-07 15:02:44 discon client: (  5,   121) T=003:25:00:000, RC=4443,RCS=0, RB=68205,RBS=5, SC=31017,SCS=2, SB=580911,SBS=47
+2021-02-07 15:03:20 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1468)
+2021-02-07 15:03:20 discon client: (  5,   121) T=000:02:00:000, RC=56,RCS=0, RB=397,RBS=3, SC=317,SCS=2, SB=5398,SBS=41
+2021-02-07 15:09:03 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1472)
+2021-02-07 15:09:03 discon client: (  5,   121) T=000:01:00:000, RC=31,RCS=0, RB=174,RBS=1, SC=274,SCS=2, SB=4757,SBS=39
+2021-02-07 15:39:25 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 15:41:47 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1488)
+2021-02-07 15:41:47 discon client: (  5,   121) T=000:01:00:000, RC=53,RCS=0, RB=718,RBS=6, SC=306,SCS=2, SB=5647,SBS=49
+2021-02-07 15:45:13 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1488)
+2021-02-07 15:45:13 discon client: (  5,   121) T=000:01:00:000, RC=5,RCS=0, RB=44,RBS=0, SC=213,SCS=2, SB=3979,SBS=40
+2021-02-07 15:51:54 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1492)
+2021-02-07 15:51:54 discon client: (  5,   121) T=000:02:00:000, RC=22,RCS=0, RB=171,RBS=1, SC=263,SCS=1, SB=4842,SBS=31
+2021-02-07 15:58:05 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1496)
+2021-02-07 15:58:05 discon client: (  5,   121) T=000:01:00:000, RC=18,RCS=0, RB=109,RBS=0, SC=395,SCS=3, SB=7065,SBS=63
+2021-02-07 16:04:30 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1504)
+2021-02-07 16:04:30 discon client: (  5,   121) T=000:01:00:000, RC=10,RCS=0, RB=69,RBS=0, SC=246,SCS=2, SB=4489,SBS=43
+2021-02-07 16:20:36 error exp over usern=gmnitrousf,charn=Nitro, level=70,exp=70000000,exppn=70000000
+2021-02-07 16:39:28 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 17:16:06 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1488)
+2021-02-07 17:16:06 discon client: (  5,   121) T=000:01:00:000, RC=2,RCS=0, RB=32,RBS=0, SC=25,SCS=0, SB=2237,SBS=27
+2021-02-07 17:20:07 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1516)
+2021-02-07 17:20:07 discon client: (  5,   121) T=000:01:00:000, RC=2,RCS=0, RB=32,RBS=0, SC=26,SCS=0, SB=2246,SBS=27
+2021-02-07 17:31:49 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1500)
+2021-02-07 17:31:49 discon client: (  5,   121) T=000:01:00:000, RC=2,RCS=0, RB=32,RBS=0, SC=25,SCS=0, SB=2880,SBS=45
+2021-02-07 17:38:32 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1496)
+2021-02-07 17:38:32 discon client: (  5,   121) T=000:01:00:000, RC=3,RCS=0, RB=40,RBS=0, SC=25,SCS=0, SB=2880,SBS=37
+2021-02-07 17:39:31 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 18:39:34 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 19:39:37 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 19:43:57 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1520)
+2021-02-07 19:43:57 discon client: (  5,   121) T=000:01:00:000, RC=32,RCS=0, RB=179,RBS=1, SC=276,SCS=2, SB=4823,SBS=49
+2021-02-07 20:39:40 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 21:39:43 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 22:39:47 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-07 22:53:43 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1532)
+2021-02-07 22:53:43 discon client: (  5,   121) T=000:01:00:000, RC=5,RCS=0, RB=52,RBS=0, SC=25,SCS=0, SB=2237,SBS=21
+2021-02-07 23:03:55 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1528)
+2021-02-07 23:03:55 discon client: (  5,   121) T=000:02:00:000, RC=88,RCS=0, RB=1535,RBS=8, SC=356,SCS=2, SB=6937,SBS=40
+2021-02-07 23:11:48 1 1 SWorker::Run():m_iocp.GetStatus() 121 (1536)
+2021-02-07 23:11:48 discon client: (  5,   121) T=000:02:00:000, RC=4,RCS=0, RB=44,RBS=0, SC=25,SCS=0, SB=2313,SBS=17
+2021-02-07 23:16:45 3 1 SERVICE_CONTROL_STOP
+2021-02-07 23:16:45 Call save all waiting...
+2021-02-07 23:16:45 1 1 SAgent::Disconnect: (3, 1236)
+2021-02-07 23:16:45 1 1 T=033:38:00:000, RC=471,RCS=0, RB=7947,RBS=0, SC=740,SCS=0, SB=19583,SBS=0
+2021-02-07 23:16:45 1 1 SAgent::Disconnect: (3, 1236)
+2021-02-07 23:16:45 1 1 T=033:38:00:000, RC=1508,RCS=0, RB=120406,RBS=0, SC=6522,SCS=0, SB=120818,SBS=0
+2021-02-07 23:16:45 1 1 SAgent::Disconnect: (3, 1236)
+2021-02-07 23:16:45 1 1 T=033:38:00:000, RC=403,RCS=0, RB=1612,RBS=0, SC=404,SCS=0, SB=1649,SBS=0
+2021-02-07 23:16:45 1 1 SAgent::Disconnect: (3, 1236)
+2021-02-07 23:16:45 1 1 T=033:38:00:000, RC=403,RCS=0, RB=1612,RBS=0, SC=470,SCS=0, SB=3082,SBS=0
+2021-02-07 23:16:45 discon mgr ((3,1236, 7947,19583)
+2021-02-07 23:16:45 discon dbagent ((3,1236, 120406,120818)
+2021-02-07 23:16:45 discon dbagent2 ((3,1236, 1612,1649)
+2021-02-07 23:16:45 discon userlog ((3,1236, 1612,3082)
+2021-02-07 23:16:45 mgr Connection Lost INFO : T=033:38:00:000, RC=471,RCS=0, RB=7947,RBS=0, SC=740,SCS=0, SB=19583,SBS=0
+2021-02-07 23:16:45 mgr server disconnection
+2021-02-07 23:16:45 dbagent2 Connection Lost INFO : T=033:38:00:000, RC=403,RCS=0, RB=1612,RBS=0, SC=404,SCS=0, SB=1649,SBS=0
+2021-02-07 23:16:45 userlog Connection Lost INFO : T=033:38:00:000, RC=403,RCS=0, RB=1612,RBS=0, SC=470,SCS=0, SB=3082,SBS=0
+2021-02-07 23:16:45 dbagent Connection Lost INFO : T=033:38:00:000, RC=1508,RCS=0, RB=120406,RBS=0, SC=6522,SCS=0, SB=120818,SBS=0
+2021-02-07 23:16:45 db agent2 server disconnected...
+2021-02-07 23:16:45 userlog log server disconnection
+2021-02-07 23:16:45 db agent server disconnected...
+2021-02-07 23:16:45 call disconnectAll...
+2021-02-07 23:16:45 server shutdown Connection INFO : T=033:38:00:000, NumC=0,CMin=0,CMax=4,CAvg=1.00, CAva=65,CReq=65,CCnt=65,DCCnt=65, CTimeT=049:33:00:000,CTimeAvg=000:45:00:000, RBT=898465,RBS=7,RBSC=5,SBT=5095888,SBS=42,SBSC=28
+2021-02-07 23:16:45 1 1 SAgent::Disconnect: (3, 1236)
+2021-02-07 23:16:45 1 1 T=033:38:00:000, RC=403,RCS=0, RB=1612,RBS=0, SC=4099,SCS=0, SB=379727,SBS=3
+2021-02-07 23:16:45 discon gamelog ((3,1236, 1612,379727)
+2021-02-07 23:16:45 gamelog Connection Lost INFO : T=033:38:00:000, RC=403,RCS=0, RB=1612,RBS=0, SC=4099,SCS=0, SB=379727,SBS=3
+2021-02-07 23:16:45 game log server disconnection
+2021-02-07 23:16:45 Save Shaiya.SData 17
+2021-02-07 23:16:45 PS_GAME__system log end (Game01)
+2021-02-07 23:16:45 3 1 SService::ServiceCtrlDispatcher(): service shutdown

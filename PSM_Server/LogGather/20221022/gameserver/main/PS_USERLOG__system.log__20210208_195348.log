@@ -1,0 +1,16 @@
+2021-02-08 19:53:48 PS_USERLOG__system log start (UserLog)
+2021-02-08 19:53:51 connect
+2021-02-08 19:54:06 connect
+2021-02-08 19:54:13 connect
+2021-02-09 12:36:24 1 1 SAgent::Disconnect: (4, 64)
+2021-02-09 12:36:24 1 1 T=016:42:00:000, RC=201,RCS=0, RB=837,RBS=0, SC=200,SCS=0, SB=800,SBS=0
+2021-02-09 12:36:24 disconnect
+2021-02-09 12:36:28 3 1 SERVICE_CONTROL_STOP
+2021-02-09 12:36:35 1 1 SAgent::Disconnect: (4, 64)
+2021-02-09 12:36:35 1 1 T=016:42:00:000, RC=220,RCS=0, RB=1283,RBS=0, SC=200,SCS=0, SB=800,SBS=0
+2021-02-09 12:36:35 disconnect
+2021-02-09 12:36:35 1 1 SAgent::Disconnect: (4, 64)
+2021-02-09 12:36:35 1 1 T=016:42:00:000, RC=202,RCS=0, RB=858,RBS=0, SC=200,SCS=0, SB=800,SBS=0
+2021-02-09 12:36:35 disconnect
+2021-02-09 12:36:36 PS_USERLOG__system log end (UserLog)
+2021-02-09 12:36:36 3 1 SService::ServiceCtrlDispatcher(): service shutdown

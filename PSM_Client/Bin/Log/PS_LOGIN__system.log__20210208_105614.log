@@ -1,0 +1,63 @@
+2021-02-08 10:56:14 PS_LOGIN__system log start (Login01)
+2021-02-08 10:56:25 <Console input> /vchkoff
+2021-02-08 10:56:25 <Console output> cmd version chk off ok
+2021-02-08 11:56:27 cmd_auto server info log
+ user = 0 (0/3000)
+2021-02-08 11:56:27 T=001:00:00:000, NumC=0,CMin=0,CMax=0,CAvg=0.00, CAva=0,CReq=0,CCnt=0,DCCnt=0, CTimeT=000:00:00:000,CTimeAvg=000:00:00:000, RBT=0,RBS=0,RBSC=0,SBT=0,SBS=0,SBSC=0
+2021-02-08 11:56:27 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(0/0)
+2021-02-08 12:56:29 cmd_auto server info log
+ user = 0 (0/3000)
+2021-02-08 12:56:29 T=002:00:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=2,CReq=2,CCnt=2,DCCnt=2, CTimeT=000:02:00:000,CTimeAvg=000:01:00:000, RBT=444,RBS=0,RBSC=2,SBT=580,SBS=0,SBSC=3
+2021-02-08 12:56:29 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2021-02-08 13:56:32 cmd_auto server info log
+ user = 0 (0/3000)
+2021-02-08 13:56:32 T=003:00:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=2,CReq=2,CCnt=2,DCCnt=2, CTimeT=000:02:00:000,CTimeAvg=000:01:00:000, RBT=444,RBS=0,RBSC=2,SBT=580,SBS=0,SBSC=3
+2021-02-08 13:56:32 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2021-02-08 14:56:34 cmd_auto server info log
+ user = 0 (0/3000)
+2021-02-08 14:56:34 T=004:00:00:000, NumC=0,CMin=0,CMax=2,CAvg=0.00, CAva=4,CReq=4,CCnt=4,DCCnt=4, CTimeT=000:04:00:000,CTimeAvg=000:01:00:000, RBT=832,RBS=0,RBSC=3,SBT=1134,SBS=0,SBSC=4
+2021-02-08 14:56:34 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2021-02-08 15:56:36 cmd_auto server info log
+ user = 0 (0/3000)
+2021-02-08 15:56:36 T=005:00:00:000, NumC=0,CMin=0,CMax=2,CAvg=0.00, CAva=5,CReq=5,CCnt=5,DCCnt=5, CTimeT=000:04:00:000,CTimeAvg=000:00:00:000, RBT=975,RBS=0,RBSC=3,SBT=1333,SBS=0,SBSC=4
+2021-02-08 15:56:36 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=0(1024/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=0(1024/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)

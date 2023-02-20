@@ -1,0 +1,14 @@
+2021-01-30 19:33:43 PS_GAMELOG__system log start (GameLog01)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_gameLog.exe, loaded at 0x00400000 - 10/10/18 16:33:52
+2021-01-30 19:33:57 connect game
+2021-01-30 23:54:54 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]The number '282447907514919470000000000000000000000.000000' is out of the range for numeric representation (maximum precision 38)., SQL STATE: 22003, NATIVE ERROR: 1007 (0x3EF)
+2021-01-30 23:54:54 DBWrite::LogGame: err=-1, query=EXEC usp_Insert_Action_Log_E 'gmnitrous',1,164888576,'£', 23183,1038054465,46660, -282447907514919470000000000000000000000.000000,0.000000,0.000000, '2000-00-00 00:00:00' ,107, 0,1157627904,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL, '0.0.0.0','money=167931137, bank=167774464, cash=1358957056','level=0,skp=3584,stp=49152','s=168,d=17930,i=0,w=0,r=0,l=0'
+2021-01-31 00:49:12 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type int to tinyint., SQL STATE: 42000, NATIVE ERROR: 8114 (0x1FB2)
+2021-01-31 00:49:12 DBWrite::LogGame: err=-1, query=EXEC usp_Insert_Action_Log_E 'gmnitrous',1,-754970811,'', 22703,1108152383,19268, 0.000000,0.000000,0.000000, '2017-04-00 00:00:00' ,108, NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL, 'money=167931137, bank=167774464, cash=1358957056','level=0,skp=3584,stp=17920','s=0,d=0,i=0,w=0,r=0,l=0'
+2021-01-31 00:49:28 1 1 SAgent::Disconnect: (4, 64)
+2021-01-31 00:49:28 1 1 T=005:15:00:000, RC=67,RCS=0, RB=610,RBS=0, SC=63,SCS=0, SB=252,SBS=0
+2021-01-31 00:49:28 disconnect game
+2021-01-31 00:49:28 3 1 SERVICE_CONTROL_STOP
+2021-01-31 00:49:28 PS_GAMELOG__system log end (GameLog01)
+2021-01-31 00:49:28 3 1 SService::ServiceCtrlDispatcher(): service shutdown

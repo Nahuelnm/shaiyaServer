@@ -1,0 +1,5 @@
+2021-02-01 22:56:21 PS_LOGIN__system log start (Login01)
+2021-02-01 22:56:23 session connect failed
+2021-02-01 22:56:23 3 1 SService::ServiceCtrlDispatcher(): m_pService->Init()
+2021-02-01 22:56:23 PS_LOGIN__system log end (Login01)
+2021-02-01 22:56:23 3 1 SService::ServiceCtrlDispatcher(): service shutdown

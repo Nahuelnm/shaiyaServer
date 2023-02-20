@@ -1,0 +1,34 @@
+2021-01-30 16:18:41 PS_DBAGENT__system log start (DBAgent01)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_dbAgent.exe, loaded at 0x00400000 - 11/09/14 16:20:57
+2021-01-30 16:18:52 ### Connect[1572] : Game[?][0x010D8C08], Addr=127.0.0.1, DBJobEnd=1
+2021-01-30 16:18:52 ### Connect[1572] : Game[?][0x01480E98], Addr=127.0.0.1, DBJobEnd=2
+2021-01-30 16:18:52 ### DB_SYSTEM_CONNECT[3968] :Game[1][0x010D8C08], Name=Game01, Addr=127.0.0.1
+2021-01-30 16:18:52 Error Packet : 0x209, CConnection::PacketSystemConnect
+2021-01-30 16:48:01 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-01-30 16:48:01 ReloadPoint 2 Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,1)}
+2021-01-30 16:49:05 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-01-30 16:49:05 ReloadPoint 2 Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,1)}
+2021-01-30 16:50:56 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-01-30 16:50:56 ReloadPoint 2 Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,1)}
+2021-01-30 16:52:07 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-01-30 16:52:07 ReloadPoint 2 Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,1)}
+2021-01-30 17:53:10 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-01-30 17:53:10 ReloadPoint 2 Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,1)}
+2021-01-30 18:13:32 1 1 SAgent::Disconnect: (4, 64)
+2021-01-30 18:13:32 1 1 T=001:54:00:000, RC=103,RCS=0, RB=1925,RBS=0, SC=72,SCS=0, SB=6342,SBS=0
+2021-01-30 18:13:32 1 1 SAgent::Disconnect: (4, 64)
+2021-01-30 18:13:32 1 1 T=001:54:00:000, RC=23,RCS=0, RB=125,RBS=0, SC=22,SCS=0, SB=88,SBS=0
+2021-01-30 18:13:32 ### Disconnect[5748] : Game[0][0x01480E98], Name=, Addr=127.0.0.1, DBJobEnd=0
+2021-01-30 18:13:32 ### PostDispatchDB[5748] : DB_DISPATCHER_EXIT Game[0][0x01480E98]
+2021-01-30 18:13:32 ### OnDispatchDB[5356] : => DB_DISPATCHER_EXIT Game[0][0x01480E98]
+2021-01-30 18:13:32 ### OnDispatchDB[5356] : <= DB_DISPATCHER_EXIT Game[0][0x01480E98]
+2021-01-30 18:13:32 ### Disconnect[3968] : Game[1][0x010D8C08], Name=Game01, Addr=127.0.0.1, DBJobEnd=1
+2021-01-30 18:13:32 ### PostDispatchDB[3968] : DB_DISPATCHER_EXIT Game[1][0x010D8C08]
+2021-01-30 18:13:32 ### OnDispatchDB[1988] : => DB_DISPATCHER_EXIT Game[1][0x010D8C08]
+2021-01-30 18:13:32 3 1 SERVICE_CONTROL_STOP
+2021-01-30 18:13:32 ### Save[1988] : Game[1][0x010D8C08]
+2021-01-30 18:13:32 ### OnDispatchDB[1988] : <= DB_DISPATCHER_EXIT Game[1][0x010D8C08]
+2021-01-30 18:13:32 PS_DBAGENT__system log end (DBAgent01)
+
+2021-01-30 18:13:32 3 1 SService::ServiceCtrlDispatcher(): service shutdown

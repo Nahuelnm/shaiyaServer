@@ -1,0 +1,71 @@
+2021-02-06 13:37:38 PS_SESSION__system log start (Session)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_session.exe, loaded at 0x00400000 - 11/09/14 16:30:56
+2021-02-06 13:37:54 connect login
+2021-02-06 13:38:01 connect game
+2021-02-06 13:48:10 [Apocalipsis] NewUser Enter : Char=Nitrous, Lv=70, Map=1, X=1780.7, Z=776.2
+2021-02-06 13:52:26 [Apocalipsis] NewUser Leave : Char=Nitrous, Lv=70, Map=1, X=976.0, Z=748.4
+2021-02-06 14:04:53 [Apocalipsis] NewUser Enter : Char=Nitrous, Lv=70, Map=1, X=976.0, Z=748.4
+2021-02-06 14:30:13 [Apocalipsis] NewUser Leave : Char=Nitrous, Lv=70, Map=1, X=990.9, Z=762.7
+2021-02-06 15:06:08 [Apocalipsis] NewUser Enter : Char=[DEV]Nitrous, Lv=70, Map=1, X=990.9, Z=762.7
+2021-02-06 15:07:48 [Apocalipsis] NewUser Enter : Char=nit, Lv=1, Map=1, X=578.0, Z=1762.1
+2021-02-06 15:08:33 [Apocalipsis] NewUser Leave : Char=nit, Lv=1, Map=1, X=578.0, Z=1762.1
+2021-02-06 15:09:38 [Apocalipsis] NewUser Enter : Char=Nitrous, Lv=1, Map=1, X=578.0, Z=1762.1
+2021-02-06 15:12:40 [Apocalipsis] NewUser Leave : Char=Nitrous, Lv=70, Map=1, X=986.6, Z=746.2
+2021-02-06 15:18:36 [Apocalipsis] NewUser Leave : Char=[DEV]Nitrous, Lv=70, Map=1, X=987.8, Z=749.1
+2021-02-06 16:00:39 [Apocalipsis] NewUser Enter : Char=[DEV]Nitrous, Lv=70, Map=1, X=987.8, Z=749.1
+2021-02-06 16:11:25 [Apocalipsis] NewUser Leave : Char=[DEV]Nitrous, Lv=70, Map=1, X=1493.2, Z=1610.4
+2021-02-06 16:55:15 [Apocalipsis] NewUser Enter : Char=[GM]Nitrous., Lv=1, Map=1, X=1678.9, Z=1776.9
+2021-02-06 17:11:05 [Apocalipsis] NewUser Leave : Char=[GM]Nitrous., Lv=11, Map=1, X=1542.9, Z=1657.7
+2021-02-06 17:11:11 [Apocalipsis] NewUser Enter : Char=[GM]Nitrous, Lv=70, Map=1, X=991.4, Z=747.3
+2021-02-06 17:15:05 [Apocalipsis] NewUser Leave : Char=[GM]Nitrous, Lv=70, Map=1, X=1732.7, Z=1824.5
+2021-02-06 18:05:15 [Apocalipsis] NewUser Enter : Char=[GM]Nitrous, Lv=70, Map=1, X=1644.7, Z=1731.0
+2021-02-06 18:06:17 [Apocalipsis] NewUser Leave : Char=[GM]Nitrous, Lv=70, Map=1, X=1632.6, Z=1715.6
+2021-02-06 18:10:27 [Apocalipsis] NewUser Enter : Char=[GM]Nitrous, Lv=70, Map=1, X=1632.6, Z=1715.6
+2021-02-06 18:47:31 [Apocalipsis] Money Over : Char=[GM]Nitrous, Old=0, Now=3999987200
+2021-02-06 18:47:31 [Apocalipsis] NewUser Leave : Char=[GM]Nitrous, Lv=70, Map=35, X=453.2, Z=286.9
+2021-02-06 18:47:52 [Apocalipsis] NewUser Enter : Char=[GM]Nitrous, Lv=70, Map=35, X=453.2, Z=286.9
+2021-02-06 21:07:35 [Apocalipsis] NewUser Leave : Char=[GM]Nitrous, Lv=70, Map=1, X=1677.6, Z=1784.8
+2021-02-06 21:07:42 [Apocalipsis] NewUser Enter : Char=[GM]Nitrous, Lv=70, Map=1, X=1677.6, Z=1784.8
+2021-02-07 00:42:07 [Apocalipsis] Money Over : Char=Morgana, Old=0, Now=4000000410
+2021-02-07 01:16:13 [Apocalipsis] NewUser Leave : Char=[GM]Nitrous, Lv=70, Map=70, X=1481.1, Z=184.6
+2021-02-07 01:25:37 [Apocalipsis] NewUser Enter : Char=SHURATO, Lv=1, Map=2, X=1838.9, Z=443.4
+2021-02-07 01:47:26 [Apocalipsis] NewUser Leave : Char=SHURATO, Lv=14, Map=2, X=1108.6, Z=1180.4
+2021-02-07 11:13:08 [Apocalipsis] NewUser Enter : Char=EchoNight, Lv=1, Map=2, X=1794.4, Z=332.4
+2021-02-07 12:06:22 [Apocalipsis] NewUser Leave : Char=EchoNight, Lv=23, Map=2, X=846.6, Z=1892.8
+2021-02-07 12:07:44 [Apocalipsis] NewUser Enter : Char=EchoNight, Lv=23, Map=2, X=846.6, Z=1892.8
+2021-02-07 13:51:47 [Apocalipsis] NewUser Leave : Char=EchoNight, Lv=31, Map=20, X=593.3, Z=1064.0
+2021-02-07 13:54:27 [Apocalipsis] NewUser Enter : Char=EchoNight, Lv=31, Map=20, X=593.3, Z=1064.0
+2021-02-07 13:55:52 [Apocalipsis] NewUser Leave : Char=EchoNight, Lv=31, Map=20, X=593.3, Z=1064.0
+2021-02-07 13:56:54 [Apocalipsis] NewUser Enter : Char=EchoNight, Lv=31, Map=20, X=593.3, Z=1064.0
+2021-02-07 13:57:56 [Apocalipsis] NewUser Leave : Char=EchoNight, Lv=31, Map=20, X=593.3, Z=1064.0
+2021-02-07 14:11:47 [Apocalipsis] NewUser Enter : Char=EchoNight, Lv=31, Map=20, X=593.3, Z=1064.0
+2021-02-07 14:13:26 [Apocalipsis] NewUser Leave : Char=EchoNight, Lv=31, Map=20, X=593.3, Z=1064.0
+2021-02-07 16:01:12 [Apocalipsis] NewUser Enter : Char=Evadne, Lv=1, Map=2, X=251.8, Z=329.7
+2021-02-07 16:01:57 [Apocalipsis] NewUser Leave : Char=Evadne, Lv=1, Map=2, X=251.8, Z=329.7
+2021-02-07 16:50:15 [Apocalipsis] NewUser Enter : Char=[GS]DarkShurato, Lv=39, Map=2, X=1063.4, Z=1317.3
+2021-02-07 16:50:53 [Apocalipsis] NewUser Leave : Char=[GS]DarkShurato, Lv=39, Map=2, X=1063.4, Z=1317.3
+2021-02-07 17:16:39 [Apocalipsis] NewUser Enter : Char=[GS]DarkShurato, Lv=39, Map=2, X=968.4, Z=1128.3
+2021-02-07 17:18:52 [Apocalipsis] NewUser Enter : Char=EchoNight, Lv=31, Map=20, X=593.3, Z=1064.0
+2021-02-07 17:20:18 [Apocalipsis] NewUser Leave : Char=EchoNight, Lv=31, Map=20, X=593.3, Z=1064.0
+2021-02-07 17:22:42 [Apocalipsis] NewUser Leave : Char=[GS]DarkShurato, Lv=39, Map=20, X=520.0, Z=1265.5
+2021-02-07 17:23:16 [Apocalipsis] NewUser Enter : Char=EchoNight, Lv=31, Map=20, X=593.3, Z=1064.0
+2021-02-07 17:24:33 [Apocalipsis] NewUser Leave : Char=EchoNight, Lv=31, Map=20, X=593.3, Z=1064.0
+2021-02-07 17:26:31 [Apocalipsis] NewUser Enter : Char=EchoNight, Lv=31, Map=20, X=593.3, Z=1064.0
+2021-02-07 17:27:14 [Apocalipsis] NewUser Leave : Char=EchoNight, Lv=31, Map=20, X=593.3, Z=1064.0
+2021-02-07 17:30:56 [Apocalipsis] NewUser Enter : Char=[GS]DarkShurato, Lv=39, Map=20, X=520.0, Z=1265.5
+2021-02-07 17:31:59 [Apocalipsis] NewUser Leave : Char=[GS]DarkShurato, Lv=39, Map=20, X=520.0, Z=1265.5
+2021-02-07 22:54:51 [Apocalipsis] NewUser Enter : Char=Evadne, Lv=1, Map=2, X=251.8, Z=329.7
+2021-02-07 22:55:59 [Apocalipsis] NewUser Leave : Char=Evadne, Lv=1, Map=2, X=274.3, Z=223.0
+2021-02-07 23:16:44 1 1 SAgent::Disconnect: (4, 64)
+2021-02-07 23:16:44 1 1 T=033:38:00:000, RC=12638,RCS=0, RB=105716,RBS=0, SC=667,SCS=0, SB=4002,SBS=0
+2021-02-07 23:16:44 disconnect login
+2021-02-07 23:16:45 1 1 SAgent::Disconnect: (4, 64)
+2021-02-07 23:16:45 1 1 T=033:38:00:000, RC=740,RCS=0, RB=19583,RBS=0, SC=471,SCS=0, SB=7947,SBS=0
+2021-02-07 23:16:45 disconnect game
+2021-02-07 23:16:47 3 1 SERVICE_CONTROL_STOP
+2021-02-07 23:16:47 1 1 SAgent::Disconnect: (3, 1236)
+2021-02-07 23:16:47 1 1 T=033:39:00:000, RC=403,RCS=0, RB=1612,RBS=0, SC=404,SCS=0, SB=1649,SBS=0
+2021-02-07 23:16:47 log system server disconnection
+2021-02-07 23:16:47 PS_SESSION__system log end (Session)
+2021-02-07 23:16:47 3 1 SService::ServiceCtrlDispatcher(): service shutdown

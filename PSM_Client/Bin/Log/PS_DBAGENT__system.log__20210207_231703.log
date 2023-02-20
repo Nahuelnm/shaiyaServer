@@ -1,0 +1,214 @@
+2021-02-07 23:17:03 PS_DBAGENT__system log start (DBAgent01)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_dbAgent.exe, loaded at 0x00400000 - 11/09/14 16:20:57
+2021-02-07 23:17:20 ### Connect[6952] : Game[?][0x01220E50], Addr=127.0.0.1, DBJobEnd=1
+2021-02-07 23:17:20 ### Connect[6952] : Game[?][0x0124CFB8], Addr=127.0.0.1, DBJobEnd=2
+2021-02-07 23:17:20 ### DB_SYSTEM_CONNECT[640] :Game[1][0x01220E50], Name=Game01, Addr=127.0.0.1
+2021-02-07 23:17:20 Error Packet : 0x209, CConnection::PacketSystemConnect
+2021-02-07 23:22:02 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-07 23:22:02 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-07 23:29:50 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-07 23:29:50 ReloadPoint 22 Ly qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,13)}
+2021-02-07 23:42:07 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-07 23:42:07 ReloadPoint 22 Ly qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,13)}
+2021-02-08 00:00:03 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:00:03 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:01:21 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:01:21 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:02:45 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:02:45 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:02:45 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:02:45 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:03:56 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:03:56 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:03:56 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:03:56 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:06:00 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:06:00 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:06:00 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:06:00 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:07:30 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:07:30 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:07:32 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:07:32 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:09:42 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:09:42 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:09:55 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:09:55 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:17:52 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:17:52 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:17:52 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:17:52 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:18:58 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:18:58 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:18:59 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:18:59 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:20:53 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:20:53 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:20:55 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:20:55 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:24:10 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:24:10 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:24:10 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:24:10 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:25:30 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:25:30 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:25:30 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:25:30 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:25:37 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:25:37 ReloadPoint 10 Morgana qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,17)}
+2021-02-08 00:26:34 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:26:34 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:26:34 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:26:34 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:27:41 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:27:41 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:27:41 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:27:41 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:29:00 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:29:00 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:29:00 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:29:00 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:30:06 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:30:06 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:30:06 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:30:06 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:35:33 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:35:33 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:35:34 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:35:34 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:36:59 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:36:59 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:36:59 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:36:59 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:40:25 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:40:25 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:40:25 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:40:25 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:41:30 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:41:30 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:41:48 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:41:48 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:44:16 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:44:16 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:44:16 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:44:16 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:50:07 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:50:07 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:50:10 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:50:10 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:51:58 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:51:58 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:51:58 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:51:58 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:54:07 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:54:07 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 00:54:09 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:54:09 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 00:55:36 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 00:55:36 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 01:07:35 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:07:35 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 01:07:37 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:07:37 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 01:08:47 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:08:47 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:08:47 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 01:08:47 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 01:12:53 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:12:53 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 01:12:55 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:12:55 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 01:13:41 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:13:41 ReloadPoint 25 Bagreee qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,14)}
+2021-02-08 01:17:00 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:17:00 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 01:18:18 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:18:18 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 01:25:43 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:25:43 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:25:43 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 01:25:43 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 01:27:02 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:27:02 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 01:27:04 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:27:04 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 01:34:57 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:34:57 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 01:34:59 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:34:59 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 01:36:34 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:36:34 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 01:36:37 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:36:37 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 01:38:40 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:38:40 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 01:38:41 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:38:41 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 01:41:55 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:41:55 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 01:41:57 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:41:57 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 01:49:19 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:49:19 ReloadPoint 10 Morgana qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,17)}
+2021-02-08 01:49:43 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:49:43 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 01:49:45 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:49:45 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 01:51:14 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:51:14 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:51:14 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 01:51:14 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 01:52:58 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:52:58 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 01:52:58 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:52:58 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 01:54:22 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:54:22 ReloadPoint 22 Ly qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,13)}
+2021-02-08 01:54:32 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:54:32 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 01:54:32 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 01:54:32 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 02:01:09 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 02:01:09 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 02:01:09 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 02:01:09 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 02:03:24 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 02:03:24 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 02:03:24 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 02:03:24 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 02:08:13 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 02:08:13 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 09:24:36 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 09:24:36 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 09:26:10 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 09:26:10 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 09:27:19 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 09:27:19 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 09:27:20 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 09:27:20 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 09:29:50 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 09:29:50 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 09:33:42 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 09:33:42 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 09:34:24 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 09:34:24 ReloadPoint 19 Evadne qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,15)}
+2021-02-08 09:35:13 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-08 09:35:13 ReloadPoint 15 EchoNight qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,16)}
+2021-02-08 09:37:20 3 1 SERVICE_CONTROL_STOP
+2021-02-08 09:37:26 1 1 SAgent::Disconnect: (4, 64)
+2021-02-08 09:37:26 1 1 T=010:20:00:000, RC=6699,RCS=0, RB=104018,RBS=2, SC=346,SCS=0, SB=45739,SBS=1
+2021-02-08 09:37:26 ### Disconnect[1040] : Game[1][0x01220E50], Name=Game01, Addr=127.0.0.1, DBJobEnd=1
+2021-02-08 09:37:26 ### PostDispatchDB[1040] : DB_DISPATCHER_EXIT Game[1][0x01220E50]
+2021-02-08 09:37:26 1 1 SAgent::Disconnect: (4, 64)
+2021-02-08 09:37:26 ### OnDispatchDB[4684] : => DB_DISPATCHER_EXIT Game[1][0x01220E50]
+2021-02-08 09:37:26 1 1 T=010:20:00:000, RC=125,RCS=0, RB=533,RBS=0, SC=124,SCS=0, SB=496,SBS=0
+2021-02-08 09:37:26 ### Disconnect[9036] : Game[0][0x0124CFB8], Name=, Addr=127.0.0.1, DBJobEnd=0
+2021-02-08 09:37:26 ### PostDispatchDB[9036] : DB_DISPATCHER_EXIT Game[0][0x0124CFB8]
+2021-02-08 09:37:26 ### OnDispatchDB[1748] : => DB_DISPATCHER_EXIT Game[0][0x0124CFB8]
+2021-02-08 09:37:26 ### OnDispatchDB[1748] : <= DB_DISPATCHER_EXIT Game[0][0x0124CFB8]
+2021-02-08 09:37:26 ### Save[4684] : Game[1][0x01220E50]
+2021-02-08 09:37:26 ### OnDispatchDB[4684] : <= DB_DISPATCHER_EXIT Game[1][0x01220E50]
+2021-02-08 09:37:27 PS_DBAGENT__system log end (DBAgent01)
+
+2021-02-08 09:37:27 3 1 SService::ServiceCtrlDispatcher(): service shutdown

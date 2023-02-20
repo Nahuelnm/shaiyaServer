@@ -1,0 +1,7 @@
+2021-02-10 22:25:29 PS_SESSION__system log start (Session)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_session.exe, loaded at 0x00400000 - 11/09/14 16:30:56
+2021-02-10 22:25:41 connect login
+2021-02-10 22:25:50 connect game
+2021-02-10 22:27:03 [Apocalipsis] NewUser Enter : Char=[GM]Nitrous, Lv=70, Map=69, X=1888.0, Z=1806.1
+2021-02-10 23:03:38 [Apocalipsis] NewUser Leave : Char=[GM]Nitrous, Lv=70, Map=35, X=597.8, Z=224.4

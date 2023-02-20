@@ -1,0 +1,12 @@
+2021-02-02 13:45:23 PS_GAMELOG__system log start (GameLog01)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_gameLog.exe, loaded at 0x00400000 - 10/10/18 16:33:52
+2021-02-02 13:45:35 connect game
+2021-02-03 11:45:51 1 1 SAgent::Disconnect: (4, 64)
+2021-02-03 11:45:51 1 1 T=022:00:00:000, RC=109,RCS=0, RB=469,RBS=0, SC=108,SCS=0, SB=432,SBS=0
+2021-02-03 11:45:51 disconnect game
+2021-02-03 11:46:00 connect game
+2021-02-03 11:46:00 1 1 SAgent::Disconnect: (4, 0)
+2021-02-03 11:46:00 connect game
+2021-02-03 11:46:00 1 1 T=000:00:00:000, RC=0,RCS=0, RB=0,RBS=0, SC=0,SCS=0, SB=0,SBS=0
+2021-02-03 11:46:00 disconnect game

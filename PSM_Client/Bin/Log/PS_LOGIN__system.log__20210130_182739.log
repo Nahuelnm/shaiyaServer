@@ -1,0 +1,10 @@
+2021-01-30 18:27:39 PS_LOGIN__system log start (Login01)
+2021-01-30 18:37:38 3 1 SERVICE_CONTROL_STOP
+2021-01-30 18:37:44 1 1 SAgent::Disconnect: (3, 1236)
+2021-01-30 18:37:44 1 1 T=000:10:00:000, RC=7,RCS=0, RB=129,RBS=0, SC=63,SCS=0, SB=545,SBS=0
+2021-01-30 18:37:44 1 1 SAgent::Disconnect: (3, 1236)
+2021-01-30 18:37:44 1 1 T=000:10:00:000, RC=2,RCS=0, RB=8,RBS=0, SC=3,SCS=0, SB=45,SBS=0
+2021-01-30 18:37:44 mgr server disconnection
+2021-01-30 18:37:44 log system server disconnection
+2021-01-30 18:37:44 PS_LOGIN__system log end (Login01)
+2021-01-30 18:37:44 3 1 SService::ServiceCtrlDispatcher(): service shutdown

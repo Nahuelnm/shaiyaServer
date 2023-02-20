@@ -1,0 +1,4 @@
+2019-01-06 17:08:35 PSM_AGENT__system log start (PS_AGENT)
+2019-01-06 17:41:01 3 1 SERVICE_CONTROL_STOP
+2019-01-06 17:41:01 PSM_AGENT__system log end (PS_AGENT)
+2019-01-06 17:41:01 3 1 SService::ServiceCtrlDispatcher(): service shutdown

@@ -1,0 +1,75 @@
+2021-01-31 16:45:07 PS_GAME__system log start (Game01) [KR]
+2021-01-31 16:45:07 Loaded Behavior In Factory : data/ai/sorp1
+2021-01-31 16:45:07 Loaded Behavior In Factory : data/ai/croco1
+2021-01-31 16:45:07 Loaded Behavior In Factory : data/ai/croco2
+2021-01-31 16:45:07 Loaded Behavior In Factory : data/ai/Troll1
+2021-01-31 16:45:07 Loaded Behavior In Factory : data/ai/Spink1
+2021-01-31 16:45:07 Loaded Behavior In Factory : data/ai/GoldenPig
+2021-01-31 16:45:07 Loaded Behavior In Factory : data/ai/Sorp3
+2021-01-31 16:45:08 Loaded Behavior In Factory : data/ai/SorpNamed1
+2021-01-31 16:45:08 Loaded Behavior In Factory : data/ai/SorpNamed2
+2021-01-31 16:45:08 Loaded Behavior In Factory : data/ai/Sorp2
+2021-01-31 16:45:08 Loaded Behavior In Factory : data/ai/CrocoNamed1
+2021-01-31 16:45:08 Loaded Behavior In Factory : data/ai/CrocoNamed2
+2021-01-31 16:45:08 Loaded Behavior In Factory : data/ai/CrocoNamed3
+2021-01-31 16:45:08 Loaded Behavior In Factory : data/ai/OrcNamed1
+2021-01-31 16:45:08 Loaded Behavior In Factory : data/ai/OrcNamed2
+2021-01-31 16:45:08 Loaded Behavior In Factory : data/ai/OrcNamed3
+2021-01-31 16:45:08 Loaded Behavior In Factory : data/ai/TrollNamed1
+2021-01-31 16:45:08 Loaded Behavior In Factory : data/ai/HellTouthNamed1
+2021-01-31 16:45:08 Loaded Behavior In Factory : data/ai/Deinos
+2021-01-31 16:45:08 Loaded Behavior In Factory : data/ai/Parridalis
+2021-01-31 16:45:08 Loaded Behavior In Factory : data/ai/Alcarian
+2021-01-31 16:45:09 Loaded Behavior In Factory : data/ai/ZinAlcaria
+2021-01-31 16:45:09 Loaded Behavior In Factory : data/ai/Belizabeth
+2021-01-31 16:45:09 Loaded Behavior In Factory : data/ai/Kirhiross
+2021-01-31 16:45:09 Loaded Behavior In Factory : data/ai/CrypticOne
+2021-01-31 16:45:09 RandomOption Error : ItemID=1056, byServer=4, Wis=0
+2021-01-31 16:45:09 RandomOption Error : ItemID=7197, byServer=3, Wis=0
+2021-01-31 16:45:09 RandomOption Error : ItemID=7198, byServer=3, Wis=0
+2021-01-31 16:45:09 RandomOption Error : ItemID=7215, byServer=3, Wis=0
+2021-01-31 16:45:09 RandomOption Error : ItemID=7217, byServer=3, Wis=0
+2021-01-31 16:45:09 RandomOption Error : ItemID=7218, byServer=3, Wis=0
+2021-01-31 16:45:09 RandomOption Error : ItemID=7219, byServer=3, Wis=0
+2021-01-31 16:45:09 RandomOption Error : ItemID=7249, byServer=4, Wis=0
+2021-01-31 16:45:09 RandomOption Error : ItemID=7250, byServer=4, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=44039, byServer=5, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=44040, byServer=3, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=44041, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120123, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120124, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120125, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120156, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120157, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120158, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120159, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120160, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120161, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120162, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120163, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120164, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120165, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120166, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120167, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120168, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120169, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120170, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120171, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120172, byServer=2, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120173, byServer=1, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120174, byServer=1, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120175, byServer=1, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120176, byServer=1, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120177, byServer=1, Wis=0
+2021-01-31 16:45:10 RandomOption Error : ItemID=120178, byServer=1, Wis=0
+2021-01-31 16:45:20 connect mgr 1328
+2021-01-31 16:45:20 connect dbagent 1072
+2021-01-31 16:45:20 connect dbagent2 1332
+2021-01-31 16:45:20 connect gamelog 1076
+2021-01-31 16:45:21 Market End -----------------------
+2021-01-31 16:45:32 <Console input> /nprotectoff
+2021-01-31 16:45:32 <Console output> cmd NProtect off ok
+2021-01-31 17:45:32 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-01-31 18:45:33 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-01-31 19:45:34 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-01-31 20:45:35 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)

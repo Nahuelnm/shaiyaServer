@@ -1,0 +1,14 @@
+2021-02-09 12:37:28 PS_SESSION__system log start (Session)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_session.exe, loaded at 0x00400000 - 11/09/14 16:30:56
+2021-02-09 12:37:40 connect login
+2021-02-09 12:37:51 connect game
+2021-02-09 12:39:04 [Apocalipsis] NewUser Enter : Char=Nit, Lv=50, Map=69, X=766.8, Z=509.0
+2021-02-09 12:41:29 [Apocalipsis] NewUser Leave : Char=Nit, Lv=50, Map=69, X=761.1, Z=520.6
+2021-02-09 12:45:14 [Apocalipsis] NewUser Enter : Char=EchoNight, Lv=58, Map=70, X=155.2, Z=175.3
+2021-02-09 12:52:38 [Apocalipsis] NewUser Enter : Char=[GS]DarkShurato, Lv=61, Map=69, X=1502.3, Z=341.5
+2021-02-09 12:59:04 [Apocalipsis] NewUser Enter : Char=Nitro, Lv=70, Map=69, X=1270.5, Z=355.1
+2021-02-09 13:10:47 [Apocalipsis] NewUser Leave : Char=EchoNight, Lv=58, Map=47, X=570.1, Z=195.5
+2021-02-09 17:29:53 [Apocalipsis] NewUser Leave : Char=Nitro, Lv=70, Map=69, X=785.5, Z=232.1
+2021-02-09 19:50:45 [Apocalipsis] NewUser Enter : Char=Evadne, Lv=58, Map=47, X=571.4, Z=194.1
+2021-02-09 19:51:20 [Apocalipsis] NewUser Leave : Char=Evadne, Lv=58, Map=47, X=571.4, Z=194.1

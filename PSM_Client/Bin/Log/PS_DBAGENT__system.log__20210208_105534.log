@@ -1,0 +1,7 @@
+2021-02-08 10:55:34 PS_DBAGENT__system log start (DBAgent01)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_dbAgent.exe, loaded at 0x00400000 - 11/09/14 16:20:57
+2021-02-08 10:55:59 3 1 SERVICE_CONTROL_STOP
+2021-02-08 10:55:59 PS_DBAGENT__system log end (DBAgent01)
+
+2021-02-08 10:55:59 3 1 SService::ServiceCtrlDispatcher(): service shutdown

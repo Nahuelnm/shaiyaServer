@@ -1,0 +1,31 @@
+2021-02-08 19:53:51 PS_SESSION__system log start (Session)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_session.exe, loaded at 0x00400000 - 11/09/14 16:30:56
+2021-02-08 19:54:06 connect login
+2021-02-08 19:54:13 connect game
+2021-02-08 20:08:03 [Apocalipsis] NewUser Enter : Char=EchoNight, Lv=56, Map=38, X=309.9, Z=405.5
+2021-02-08 20:09:53 [Apocalipsis] NewUser Enter : Char=Evadne, Lv=56, Map=38, X=309.7, Z=404.2
+2021-02-08 21:21:51 [Apocalipsis] NewUser Leave : Char=EchoNight, Lv=56, Map=38, X=319.7, Z=459.3
+2021-02-08 21:21:56 [Apocalipsis] NewUser Leave : Char=Evadne, Lv=56, Map=38, X=319.2, Z=457.9
+2021-02-08 21:58:10 [Apocalipsis] NewUser Enter : Char=Evadne, Lv=56, Map=38, X=319.2, Z=457.9
+2021-02-08 21:58:54 [Apocalipsis] NewUser Enter : Char=[GS]DarkShurato, Lv=55, Map=69, X=1750.6, Z=258.8
+2021-02-08 22:56:39 [Apocalipsis] NewUser Leave : Char=Evadne, Lv=58, Map=69, X=1694.3, Z=259.6
+2021-02-08 23:05:58 [Apocalipsis] NewUser Leave : Char=[GS]DarkShurato, Lv=57, Map=70, X=160.4, Z=179.6
+2021-02-09 11:19:56 [Apocalipsis] NewUser Enter : Char=[GS]DarkShurato, Lv=61, Map=69, X=1491.4, Z=338.4
+2021-02-09 11:48:03 [Apocalipsis] NewUser Leave : Char=[GS]DarkShurato, Lv=61, Map=69, X=1518.9, Z=343.7
+2021-02-09 12:17:54 [Apocalipsis] NewUser Enter : Char=EchoNight, Lv=58, Map=70, X=155.2, Z=175.3
+2021-02-09 12:19:05 [Apocalipsis] NewUser Leave : Char=EchoNight, Lv=58, Map=70, X=155.2, Z=175.3
+2021-02-09 12:27:39 [Apocalipsis] NewUser Enter : Char=Nit, Lv=1, Map=2, X=165.3, Z=397.9
+2021-02-09 12:35:59 [Apocalipsis] NewUser Leave : Char=Nit, Lv=50, Map=69, X=766.8, Z=509.0
+2021-02-09 12:36:24 1 1 SAgent::Disconnect: (4, 64)
+2021-02-09 12:36:24 1 1 T=016:42:00:000, RC=6251,RCS=0, RB=51066,RBS=0, SC=281,SCS=0, SB=1592,SBS=0
+2021-02-09 12:36:24 disconnect login
+2021-02-09 12:36:27 3 1 SERVICE_CONTROL_STOP
+2021-02-09 12:36:35 1 1 SAgent::Disconnect: (4, 64)
+2021-02-09 12:36:35 1 1 T=016:42:00:000, RC=292,RCS=0, RB=5587,RBS=0, SC=223,SCS=0, SB=2681,SBS=0
+2021-02-09 12:36:35 disconnect game
+2021-02-09 12:36:35 1 1 SAgent::Disconnect: (3, 1236)
+2021-02-09 12:36:35 1 1 T=016:42:00:000, RC=200,RCS=0, RB=800,RBS=0, SC=202,SCS=0, SB=858,SBS=0
+2021-02-09 12:36:35 log system server disconnection
+2021-02-09 12:36:35 PS_SESSION__system log end (Session)
+2021-02-09 12:36:35 3 1 SService::ServiceCtrlDispatcher(): service shutdown

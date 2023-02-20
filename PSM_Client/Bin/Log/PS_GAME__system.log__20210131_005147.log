@@ -1,0 +1,102 @@
+2021-01-31 00:51:47 PS_GAME__system log start (Game01) [KR]
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/sorp1
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/croco1
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/croco2
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/Troll1
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/Spink1
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/GoldenPig
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/Sorp3
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/SorpNamed1
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/SorpNamed2
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/Sorp2
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/CrocoNamed1
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/CrocoNamed2
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/CrocoNamed3
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/OrcNamed1
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/OrcNamed2
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/OrcNamed3
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/TrollNamed1
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/HellTouthNamed1
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/Deinos
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/Parridalis
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/Alcarian
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/ZinAlcaria
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/Belizabeth
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/Kirhiross
+2021-01-31 00:51:47 Loaded Behavior In Factory : data/ai/CrypticOne
+2021-01-31 00:51:47 RandomOption Error : ItemID=1056, byServer=4, Wis=0
+2021-01-31 00:51:47 RandomOption Error : ItemID=7197, byServer=3, Wis=0
+2021-01-31 00:51:47 RandomOption Error : ItemID=7198, byServer=3, Wis=0
+2021-01-31 00:51:47 RandomOption Error : ItemID=7215, byServer=3, Wis=0
+2021-01-31 00:51:47 RandomOption Error : ItemID=7217, byServer=3, Wis=0
+2021-01-31 00:51:47 RandomOption Error : ItemID=7218, byServer=3, Wis=0
+2021-01-31 00:51:47 RandomOption Error : ItemID=7219, byServer=3, Wis=0
+2021-01-31 00:51:47 RandomOption Error : ItemID=7249, byServer=4, Wis=0
+2021-01-31 00:51:47 RandomOption Error : ItemID=7250, byServer=4, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=44039, byServer=5, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=44040, byServer=3, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=44041, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120123, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120124, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120125, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120156, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120157, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120158, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120159, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120160, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120161, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120162, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120163, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120164, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120165, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120166, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120167, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120168, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120169, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120170, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120171, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120172, byServer=2, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120173, byServer=1, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120174, byServer=1, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120175, byServer=1, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120176, byServer=1, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120177, byServer=1, Wis=0
+2021-01-31 00:51:48 RandomOption Error : ItemID=120178, byServer=1, Wis=0
+2021-01-31 00:51:56 connect mgr 1284
+2021-01-31 00:51:56 connect dbagent 1288
+2021-01-31 00:51:56 connect dbagent2 1292
+2021-01-31 00:51:56 connect gamelog 1308
+2021-01-31 00:51:56 Market End -----------------------
+2021-01-31 00:51:58 Load Shaiya.SData 1
+2021-01-31 01:05:16 Call save all waiting...
+2021-01-31 01:05:16 3 1 SERVICE_CONTROL_STOP
+2021-01-31 01:05:16 1 1 SAgent::Disconnect: (3, 1236)
+2021-01-31 01:05:16 1 1 T=000:13:00:000, RC=5,RCS=0, RB=38,RBS=0, SC=5,SCS=0, SB=85,SBS=0
+2021-01-31 01:05:16 1 1 SAgent::Disconnect: (3, 1236)
+2021-01-31 01:05:16 1 1 T=000:13:00:000, RC=10,RCS=0, RB=4261,RBS=5, SC=8,SCS=0, SB=185,SBS=0
+2021-01-31 01:05:16 1 1 SAgent::Disconnect: (3, 1236)
+2021-01-31 01:05:16 1 1 T=000:13:00:000, RC=2,RCS=0, RB=8,RBS=0, SC=3,SCS=0, SB=45,SBS=0
+2021-01-31 01:05:16 1 1 SAgent::Disconnect: (3, 1236)
+2021-01-31 01:05:16 1 1 T=000:13:00:000, RC=2,RCS=0, RB=8,RBS=0, SC=4,SCS=0, SB=113,SBS=0
+2021-01-31 01:05:16 1 1 SAgent::Disconnect: (3, 1236)
+2021-01-31 01:05:16 1 1 T=000:13:00:000, RC=2,RCS=0, RB=8,RBS=0, SC=3,SCS=0, SB=45,SBS=0
+2021-01-31 01:05:16 discon mgr ((3,1236, 38,85)
+2021-01-31 01:05:16 mgr Connection Lost INFO : T=000:13:00:000, RC=5,RCS=0, RB=38,RBS=0, SC=5,SCS=0, SB=85,SBS=0
+2021-01-31 01:05:16 mgr server disconnection
+2021-01-31 01:05:16 discon gamelog ((3,1236, 8,45)
+2021-01-31 01:05:16 discon userlog ((3,1236, 8,113)
+2021-01-31 01:05:16 gamelog Connection Lost INFO : T=000:13:00:000, RC=2,RCS=0, RB=8,RBS=0, SC=3,SCS=0, SB=45,SBS=0
+2021-01-31 01:05:16 userlog Connection Lost INFO : T=000:13:00:000, RC=2,RCS=0, RB=8,RBS=0, SC=4,SCS=0, SB=113,SBS=0
+2021-01-31 01:05:16 game log server disconnection
+2021-01-31 01:05:16 discon dbagent2 ((3,1236, 8,45)
+2021-01-31 01:05:16 userlog log server disconnection
+2021-01-31 01:05:16 dbagent2 Connection Lost INFO : T=000:13:00:000, RC=2,RCS=0, RB=8,RBS=0, SC=3,SCS=0, SB=45,SBS=0
+2021-01-31 01:05:16 discon dbagent ((3,1236, 4261,185)
+2021-01-31 01:05:16 db agent2 server disconnected...
+2021-01-31 01:05:16 dbagent Connection Lost INFO : T=000:13:00:000, RC=10,RCS=0, RB=4261,RBS=5, SC=8,SCS=0, SB=185,SBS=0
+2021-01-31 01:05:16 db agent server disconnected...
+2021-01-31 01:05:16 call disconnectAll...
+2021-01-31 01:05:16 server shutdown Connection INFO : T=000:13:00:000, NumC=0,CMin=0,CMax=0,CAvg=0.00, CAva=0,CReq=0,CCnt=0,DCCnt=0, CTimeT=000:00:00:000,CTimeAvg=000:00:00:000, RBT=0,RBS=0,RBSC=0,SBT=0,SBS=0,SBSC=0
+2021-01-31 01:05:16 Save Shaiya.SData 1
+2021-01-31 01:05:16 PS_GAME__system log end (Game01)
+2021-01-31 01:05:16 3 1 SService::ServiceCtrlDispatcher(): service shutdown

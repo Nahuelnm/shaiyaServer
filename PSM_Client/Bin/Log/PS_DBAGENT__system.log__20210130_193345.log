@@ -1,0 +1,38 @@
+2021-01-30 19:33:45 PS_DBAGENT__system log start (DBAgent01)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_dbAgent.exe, loaded at 0x00400000 - 11/09/14 16:20:57
+2021-01-30 19:33:57 ### Connect[5256] : Game[?][0x00EF8C38], Addr=127.0.0.1, DBJobEnd=1
+2021-01-30 19:33:57 ### Connect[5256] : Game[?][0x013A0E68], Addr=127.0.0.1, DBJobEnd=2
+2021-01-30 19:33:57 ### DB_SYSTEM_CONNECT[4528] :Game[1][0x00EF8C38], Name=Game01, Addr=127.0.0.1
+2021-01-30 19:33:57 Error Packet : 0x209, CConnection::PacketSystemConnect
+2021-01-30 23:57:12 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-01-30 23:57:12 ReloadPoint 2 Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,1)}
+2021-01-31 00:19:57 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-01-31 00:19:57 ReloadPoint 2 Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,1)}
+2021-01-31 00:28:47 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-01-31 00:28:47 ReloadPoint 2 Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,1)}
+2021-01-31 00:33:10 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-01-31 00:33:10 ReloadPoint 2 Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,1)}
+2021-01-31 00:39:31 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-01-31 00:39:31 ReloadPoint 2 Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,1)}
+2021-01-31 00:41:05 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-01-31 00:41:05 ReloadPoint 2 Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,1)}
+2021-01-31 00:48:55 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-01-31 00:48:55 ReloadPoint 2 Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,1)}
+2021-01-31 00:49:28 1 1 SAgent::Disconnect: (4, 64)
+2021-01-31 00:49:28 1 1 T=005:15:00:000, RC=113,RCS=0, RB=977,RBS=0, SC=84,SCS=0, SB=5281,SBS=0
+2021-01-31 00:49:28 ### Disconnect[6804] : Game[1][0x00EF8C38], Name=Game01, Addr=127.0.0.1, DBJobEnd=1
+2021-01-31 00:49:28 ### PostDispatchDB[6804] : DB_DISPATCHER_EXIT Game[1][0x00EF8C38]
+2021-01-31 00:49:28 ### OnDispatchDB[5352] : => DB_DISPATCHER_EXIT Game[1][0x00EF8C38]
+2021-01-31 00:49:28 1 1 SAgent::Disconnect: (4, 64)
+2021-01-31 00:49:28 1 1 T=005:15:00:000, RC=64,RCS=0, RB=289,RBS=0, SC=63,SCS=0, SB=252,SBS=0
+2021-01-31 00:49:28 ### Disconnect[6804] : Game[0][0x013A0E68], Name=, Addr=127.0.0.1, DBJobEnd=0
+2021-01-31 00:49:28 ### PostDispatchDB[6804] : DB_DISPATCHER_EXIT Game[0][0x013A0E68]
+2021-01-31 00:49:28 ### OnDispatchDB[5924] : => DB_DISPATCHER_EXIT Game[0][0x013A0E68]
+2021-01-31 00:49:28 ### OnDispatchDB[5924] : <= DB_DISPATCHER_EXIT Game[0][0x013A0E68]
+2021-01-31 00:49:28 ### Save[5352] : Game[1][0x00EF8C38]
+2021-01-31 00:49:28 ### OnDispatchDB[5352] : <= DB_DISPATCHER_EXIT Game[1][0x00EF8C38]
+2021-01-31 00:49:28 3 1 SERVICE_CONTROL_STOP
+2021-01-31 00:49:28 PS_DBAGENT__system log end (DBAgent01)
+
+2021-01-31 00:49:28 3 1 SService::ServiceCtrlDispatcher(): service shutdown

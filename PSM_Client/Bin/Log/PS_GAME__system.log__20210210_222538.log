@@ -1,0 +1,73 @@
+2021-02-10 22:25:38 PS_GAME__system log start (Game01) [KR]
+2021-02-10 22:25:38 Loaded Behavior In Factory : data/ai/sorp1
+2021-02-10 22:25:38 Loaded Behavior In Factory : data/ai/croco1
+2021-02-10 22:25:38 Loaded Behavior In Factory : data/ai/croco2
+2021-02-10 22:25:38 Loaded Behavior In Factory : data/ai/Troll1
+2021-02-10 22:25:38 Loaded Behavior In Factory : data/ai/Spink1
+2021-02-10 22:25:38 Loaded Behavior In Factory : data/ai/GoldenPig
+2021-02-10 22:25:38 Loaded Behavior In Factory : data/ai/Sorp3
+2021-02-10 22:25:38 Loaded Behavior In Factory : data/ai/SorpNamed1
+2021-02-10 22:25:38 Loaded Behavior In Factory : data/ai/SorpNamed2
+2021-02-10 22:25:38 Loaded Behavior In Factory : data/ai/Sorp2
+2021-02-10 22:25:38 Loaded Behavior In Factory : data/ai/CrocoNamed1
+2021-02-10 22:25:39 Loaded Behavior In Factory : data/ai/CrocoNamed2
+2021-02-10 22:25:39 Loaded Behavior In Factory : data/ai/CrocoNamed3
+2021-02-10 22:25:39 Loaded Behavior In Factory : data/ai/OrcNamed1
+2021-02-10 22:25:39 Loaded Behavior In Factory : data/ai/OrcNamed2
+2021-02-10 22:25:39 Loaded Behavior In Factory : data/ai/OrcNamed3
+2021-02-10 22:25:39 Loaded Behavior In Factory : data/ai/TrollNamed1
+2021-02-10 22:25:39 Loaded Behavior In Factory : data/ai/HellTouthNamed1
+2021-02-10 22:25:39 Loaded Behavior In Factory : data/ai/Deinos
+2021-02-10 22:25:39 Loaded Behavior In Factory : data/ai/Parridalis
+2021-02-10 22:25:39 Loaded Behavior In Factory : data/ai/Alcarian
+2021-02-10 22:25:39 Loaded Behavior In Factory : data/ai/ZinAlcaria
+2021-02-10 22:25:39 Loaded Behavior In Factory : data/ai/Belizabeth
+2021-02-10 22:25:39 Loaded Behavior In Factory : data/ai/Kirhiross
+2021-02-10 22:25:39 Loaded Behavior In Factory : data/ai/CrypticOne
+2021-02-10 22:25:40 RandomOption Error : ItemID=1056, byServer=4, Wis=0
+2021-02-10 22:25:40 RandomOption Error : ItemID=7197, byServer=3, Wis=0
+2021-02-10 22:25:40 RandomOption Error : ItemID=7198, byServer=3, Wis=0
+2021-02-10 22:25:40 RandomOption Error : ItemID=7215, byServer=3, Wis=0
+2021-02-10 22:25:40 RandomOption Error : ItemID=7217, byServer=3, Wis=0
+2021-02-10 22:25:40 RandomOption Error : ItemID=7218, byServer=3, Wis=0
+2021-02-10 22:25:40 RandomOption Error : ItemID=7219, byServer=3, Wis=0
+2021-02-10 22:25:40 RandomOption Error : ItemID=7249, byServer=4, Wis=0
+2021-02-10 22:25:40 RandomOption Error : ItemID=7250, byServer=4, Wis=0
+2021-02-10 22:25:40 RandomOption Error : ItemID=44039, byServer=5, Wis=0
+2021-02-10 22:25:40 RandomOption Error : ItemID=44040, byServer=3, Wis=0
+2021-02-10 22:25:40 RandomOption Error : ItemID=44041, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120123, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120124, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120125, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120156, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120157, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120158, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120159, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120160, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120161, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120162, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120163, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120164, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120165, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120166, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120167, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120168, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120169, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120170, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120171, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120172, byServer=2, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120173, byServer=1, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120174, byServer=1, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120175, byServer=1, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120176, byServer=1, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120177, byServer=1, Wis=0
+2021-02-10 22:25:41 RandomOption Error : ItemID=120178, byServer=1, Wis=0
+2021-02-10 22:25:50 connect mgr 1276
+2021-02-10 22:25:50 connect dbagent 1280
+2021-02-10 22:25:50 connect dbagent2 1284
+2021-02-10 22:25:50 connect gamelog 1300
+2021-02-10 22:25:51 Market End -----------------------
+2021-02-10 22:25:52 Load Shaiya.SData 1
+2021-02-10 22:25:57 <Console input> /nprotectoff
+2021-02-10 22:25:57 <Console output> cmd NProtect off ok
+2021-02-10 22:27:03 error exp over usern=nitrous.n2o,charn=[GM]Nitrous, level=70,exp=70000000,exppn=70000000

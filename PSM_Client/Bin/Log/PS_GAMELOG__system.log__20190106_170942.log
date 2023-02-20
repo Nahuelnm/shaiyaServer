@@ -1,0 +1,6 @@
+2019-01-06 17:09:42 PS_GAMELOG__system log start (GameLog01)
+2019-01-06 17:09:42 DB gamelog connect error
+2019-01-06 17:09:42 init db error
+2019-01-06 17:09:42 3 1 SService::ServiceCtrlDispatcher(): m_pService->Init()
+2019-01-06 17:09:42 PS_GAMELOG__system log end (GameLog01)
+2019-01-06 17:09:42 3 1 SService::ServiceCtrlDispatcher(): service shutdown

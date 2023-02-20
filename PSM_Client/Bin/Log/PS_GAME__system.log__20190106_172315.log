@@ -1,0 +1,63 @@
+2019-01-06 17:23:15 PS_GAME__system log start (Game01) [GERMANY]
+2019-01-06 17:23:15 RandomOption Error : ItemID=24070, byServer=2, Wis=0
+2019-01-06 17:23:15 RandomOption Error : ItemID=24111, byServer=2, Wis=0
+2019-01-06 17:23:15 RandomOption Error : ItemID=24112, byServer=2, Wis=0
+2019-01-06 17:23:15 RandomOption Error : ItemID=24118, byServer=2, Wis=0
+2019-01-06 17:23:15 RandomOption Error : ItemID=24119, byServer=2, Wis=0
+2019-01-06 17:23:15 RandomOption Error : ItemID=24125, byServer=2, Wis=0
+2019-01-06 17:23:15 RandomOption Error : ItemID=24126, byServer=2, Wis=0
+2019-01-06 17:23:15 RandomOption Error : ItemID=24154, byServer=2, Wis=0
+2019-01-06 17:23:15 RandomOption Error : ItemID=24240, byServer=2, Wis=0
+2019-01-06 17:23:15 RandomOption Error : ItemID=24249, byServer=2, Wis=0
+2019-01-06 17:23:15 RandomOption Error : ItemID=24250, byServer=2, Wis=0
+2019-01-06 17:23:15 RandomOption Error : ItemID=24251, byServer=2, Wis=0
+2019-01-06 17:23:15 RandomOption Error : ItemID=24252, byServer=2, Wis=0
+2019-01-06 17:23:15 RandomOption Error : ItemID=24253, byServer=2, Wis=0
+2019-01-06 17:23:15 RandomOption Error : ItemID=24254, byServer=2, Wis=0
+2019-01-06 17:23:16 RandomOption Error : ItemID=39070, byServer=2, Wis=0
+2019-01-06 17:23:16 RandomOption Error : ItemID=39111, byServer=2, Wis=0
+2019-01-06 17:23:16 RandomOption Error : ItemID=39112, byServer=2, Wis=0
+2019-01-06 17:23:16 RandomOption Error : ItemID=39118, byServer=2, Wis=0
+2019-01-06 17:23:16 RandomOption Error : ItemID=39119, byServer=2, Wis=0
+2019-01-06 17:23:16 RandomOption Error : ItemID=39125, byServer=2, Wis=0
+2019-01-06 17:23:16 RandomOption Error : ItemID=39126, byServer=2, Wis=0
+2019-01-06 17:23:16 RandomOption Error : ItemID=39154, byServer=2, Wis=0
+2019-01-06 17:23:16 RandomOption Error : ItemID=39240, byServer=2, Wis=0
+2019-01-06 17:23:17 connect mgr 1012
+2019-01-06 17:23:17 Server Version : 11093000
+2019-01-06 17:23:17 connect dbagent 1016
+2019-01-06 17:23:17 connect gamelog 1032
+2019-01-06 17:23:17 Market End -----------------------
+2019-01-06 17:23:17 Start CWorldSendThread=3928
+Module list:
+C:\ShaiyaServer\PSM_Client\Bin\ps_game.exe, loaded at 0x00400000 - 11/09/14 17:10:08
+2019-01-06 17:24:37 <Console input> /nprotect off
+2019-01-06 17:24:37 <Console output> error cmd not found
+2019-01-06 17:24:40 <Console input> /nprotectoff
+2019-01-06 17:24:40 <Console output> cmd NProtect off ok
+2019-01-06 17:41:18 3 1 SERVICE_CONTROL_STOP
+2019-01-06 17:41:18 Call save all waiting...
+2019-01-06 17:41:18 1 1 SAgent::Disconnect: (3, 1236)
+2019-01-06 17:41:18 1 1 T=000:18:00:000, RC=12,RCS=0, RB=4439,RBS=4, SC=9,SCS=0, SB=189,SBS=0
+2019-01-06 17:41:18 1 1 SAgent::Disconnect: (3, 1236)
+2019-01-06 17:41:18 1 1 T=000:18:00:000, RC=5,RCS=0, RB=38,RBS=0, SC=6,SCS=0, SB=89,SBS=0
+2019-01-06 17:41:18 1 1 SAgent::Disconnect: (3, 1236)
+2019-01-06 17:41:18 1 1 T=000:18:00:000, RC=2,RCS=0, RB=8,RBS=0, SC=5,SCS=0, SB=117,SBS=0
+2019-01-06 17:41:18 discon dbagent ((3,1236, 4439,189)
+2019-01-06 17:41:18 1 1 SAgent::Disconnect: (3, 1236)
+2019-01-06 17:41:18 dbagent Connection Lost INFO : T=000:18:00:000, RC=12,RCS=0, RB=4439,RBS=4, SC=9,SCS=0, SB=189,SBS=0
+2019-01-06 17:41:18 1 1 T=000:18:00:000, RC=2,RCS=0, RB=8,RBS=0, SC=4,SCS=0, SB=49,SBS=0
+2019-01-06 17:41:18 db agent server disconnected...
+2019-01-06 17:41:18 discon gamelog ((3,1236, 8,49)
+2019-01-06 17:41:18 call disconnectAll...
+2019-01-06 17:41:18 gamelog Connection Lost INFO : T=000:18:00:000, RC=2,RCS=0, RB=8,RBS=0, SC=4,SCS=0, SB=49,SBS=0
+2019-01-06 17:41:18 game log server disconnection
+2019-01-06 17:41:18 discon mgr ((3,1236, 38,89)
+2019-01-06 17:41:18 discon userlog ((3,1236, 8,117)
+2019-01-06 17:41:18 mgr Connection Lost INFO : T=000:18:00:000, RC=5,RCS=0, RB=38,RBS=0, SC=6,SCS=0, SB=89,SBS=0
+2019-01-06 17:41:18 userlog Connection Lost INFO : T=000:18:00:000, RC=2,RCS=0, RB=8,RBS=0, SC=5,SCS=0, SB=117,SBS=0
+2019-01-06 17:41:18 mgr server disconnection
+2019-01-06 17:41:18 userlog log server disconnection
+2019-01-06 17:41:18 server shutdown Connection INFO : T=000:18:00:000, NumC=0,CMin=0,CMax=0,CAvg=0.00, CAva=0,CReq=0,CCnt=0,DCCnt=0, CTimeT=000:00:00:000,CTimeAvg=000:00:00:000, RBT=0,RBS=0,RBSC=0,SBT=0,SBS=0,SBSC=0
+2019-01-06 17:41:18 PS_GAME__system log end (Game01)
+2019-01-06 17:41:18 3 1 SService::ServiceCtrlDispatcher(): service shutdown

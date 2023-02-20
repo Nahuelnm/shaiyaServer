@@ -1,0 +1,6 @@
+2021-02-01 22:56:10 PS_SESSION__system log start (Session)
+2021-02-01 22:56:13 userlog connect failed
+2021-02-01 22:56:13 initserver() failed
+2021-02-01 22:56:13 3 1 SService::ServiceCtrlDispatcher(): m_pService->Init()
+2021-02-01 22:56:13 PS_SESSION__system log end (Session)
+2021-02-01 22:56:13 3 1 SService::ServiceCtrlDispatcher(): service shutdown

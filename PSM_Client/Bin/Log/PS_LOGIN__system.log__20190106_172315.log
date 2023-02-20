@@ -1,0 +1,9 @@
+2019-01-06 17:23:15 PS_LOGIN__system log start (Login01)
+2019-01-06 17:24:26 <Console input> /vchkoff
+2019-01-06 17:24:26 <Console output> cmd version chk off ok
+2019-01-06 17:41:17 3 1 SERVICE_CONTROL_STOP
+2019-01-06 17:41:18 1 1 SAgent::Disconnect: (3, 1236)
+2019-01-06 17:41:18 1 1 T=000:18:00:000, RC=6,RCS=0, RB=123,RBS=0, SC=113,SCS=0, SB=941,SBS=0
+2019-01-06 17:41:18 mgr server disconnection
+2019-01-06 17:41:18 PS_LOGIN__system log end (Login01)
+2019-01-06 17:41:18 3 1 SService::ServiceCtrlDispatcher(): service shutdown

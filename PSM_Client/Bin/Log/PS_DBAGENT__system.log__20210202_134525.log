@@ -1,0 +1,39 @@
+2021-02-02 13:45:25 PS_DBAGENT__system log start (DBAgent01)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_dbAgent.exe, loaded at 0x00400000 - 11/09/14 16:20:57
+2021-02-02 13:45:35 ### Connect[4592] : Game[?][0x012F0E50], Addr=127.0.0.1, DBJobEnd=1
+2021-02-02 13:45:35 ### Connect[4592] : Game[?][0x0131CFB8], Addr=127.0.0.1, DBJobEnd=2
+2021-02-02 13:45:35 ### DB_SYSTEM_CONNECT[5704] :Game[1][0x012F0E50], Name=Game01, Addr=127.0.0.1
+2021-02-02 13:45:36 Error Packet : 0x209, CConnection::PacketSystemConnect
+2021-02-03 11:45:51 1 1 SAgent::Disconnect: (4, 64)
+2021-02-03 11:45:51 1 1 SAgent::Disconnect: (4, 64)
+2021-02-03 11:45:51 1 1 T=022:00:00:000, RC=168,RCS=0, RB=1257,RBS=0, SC=116,SCS=0, SB=4685,SBS=0
+2021-02-03 11:45:51 1 1 T=022:00:00:000, RC=109,RCS=0, RB=469,RBS=0, SC=108,SCS=0, SB=432,SBS=0
+2021-02-03 11:45:51 ### Disconnect[3792] : Game[1][0x012F0E50], Name=Game01, Addr=127.0.0.1, DBJobEnd=1
+2021-02-03 11:45:51 ### Disconnect[2008] : Game[0][0x0131CFB8], Name=, Addr=127.0.0.1, DBJobEnd=0
+2021-02-03 11:45:51 ### PostDispatchDB[3792] : DB_DISPATCHER_EXIT Game[1][0x012F0E50]
+2021-02-03 11:45:51 ### PostDispatchDB[2008] : DB_DISPATCHER_EXIT Game[0][0x0131CFB8]
+2021-02-03 11:45:51 ### OnDispatchDB[5836] : => DB_DISPATCHER_EXIT Game[0][0x0131CFB8]
+2021-02-03 11:45:51 ### OnDispatchDB[5836] : <= DB_DISPATCHER_EXIT Game[0][0x0131CFB8]
+2021-02-03 11:45:51 ### OnDispatchDB[3584] : => DB_DISPATCHER_EXIT Game[1][0x012F0E50]
+2021-02-03 11:45:51 ### Save[3584] : Game[1][0x012F0E50]
+2021-02-03 11:45:51 ### OnDispatchDB[3584] : <= DB_DISPATCHER_EXIT Game[1][0x012F0E50]
+2021-02-03 11:46:00 ### Connect[4592] : Game[?][0x012F0E50], Addr=127.0.0.1, DBJobEnd=1
+2021-02-03 11:46:00 1 1 SAgent::Disconnect: (4, 0)
+2021-02-03 11:46:00 1 1 T=000:00:00:000, RC=0,RCS=0, RB=0,RBS=0, SC=0,SCS=0, SB=0,SBS=0
+2021-02-03 11:46:00 ### Disconnect[2008] : Game[1][0x012F0E50], Name=, Addr=127.0.0.1, DBJobEnd=0
+2021-02-03 11:46:00 ### PostDispatchDB[2008] : DB_DISPATCHER_EXIT Game[1][0x012F0E50]
+2021-02-03 11:46:00 ### OnDispatchDB[3584] : => DB_DISPATCHER_EXIT Game[1][0x012F0E50]
+2021-02-03 11:46:00 ### Connect[4592] : Game[?][0x0131CFB8], Addr=127.0.0.1, DBJobEnd=1
+2021-02-03 11:46:00 ### Connect[4592] : Game[?][0x01325120], Addr=127.0.0.1, DBJobEnd=2
+2021-02-03 11:46:00 1 1 SAgent::Disconnect: (4, 0)
+2021-02-03 11:46:00 1 1 T=000:00:00:000, RC=0,RCS=0, RB=0,RBS=0, SC=0,SCS=0, SB=0,SBS=0
+2021-02-03 11:46:00 ### Disconnect[2008] : Game[0][0x01325120], Name=, Addr=127.0.0.1, DBJobEnd=1
+2021-02-03 11:46:00 ### PostDispatchDB[2008] : DB_DISPATCHER_EXIT Game[0][0x01325120]
+2021-02-03 11:46:00 ### OnDispatchDB[5836] : => DB_DISPATCHER_EXIT Game[0][0x01325120]
+2021-02-03 11:46:00 ### OnDispatchDB[5836] : <= DB_DISPATCHER_EXIT Game[0][0x01325120]
+2021-02-03 11:46:00 ### Connect[4592] : Game[?][0x01325120], Addr=127.0.0.1, DBJobEnd=2
+2021-02-03 11:46:00 ### Save[3584] : Game[1][0x012F0E50]
+2021-02-03 11:46:00 ### OnDispatchDB[3584] : <= DB_DISPATCHER_EXIT Game[1][0x012F0E50]
+2021-02-03 11:46:00 ### DB_SYSTEM_CONNECT[2008] :Game[1][0x0131CFB8], Name=Game01, Addr=127.0.0.1
+2021-02-03 11:46:00 Error Packet : 0x209, CConnection::PacketSystemConnect

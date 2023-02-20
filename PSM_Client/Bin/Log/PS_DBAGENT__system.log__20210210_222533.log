@@ -1,0 +1,19 @@
+2021-02-10 22:25:33 PS_DBAGENT__system log start (DBAgent01)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_dbAgent.exe, loaded at 0x00400000 - 11/09/14 16:20:57
+2021-02-10 22:25:50 ### Connect[7880] : Game[?][0x01590E50], Addr=127.0.0.1, DBJobEnd=1
+2021-02-10 22:25:50 ### Connect[7880] : Game[?][0x015BCFB8], Addr=127.0.0.1, DBJobEnd=2
+2021-02-10 22:25:50 Error Packet : 0x209, CConnection::PacketSystemConnect
+2021-02-10 22:25:50 ### DB_SYSTEM_CONNECT[7316] :Game[1][0x01590E50], Name=Game01, Addr=127.0.0.1
+2021-02-10 22:31:37 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-10 22:31:37 ReloadPoint 4 [GM]Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,2)}
+2021-02-10 22:45:37 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-10 22:45:37 ReloadPoint 4 [GM]Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,2)}
+2021-02-10 22:46:46 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-10 22:46:46 ReloadPoint 4 [GM]Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,2)}
+2021-02-10 22:57:05 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-10 22:57:05 ReloadPoint 4 [GM]Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,2)}
+2021-02-10 23:00:16 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-10 23:00:16 ReloadPoint 4 [GM]Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,2)}
+2021-02-10 23:02:25 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'usp_Read_User_CashPoint_UsersMaster'., SQL STATE: 42000, NATIVE ERROR: 2812 (0xAFC)
+2021-02-10 23:02:25 ReloadPoint 4 [GM]Nitrous qerr=-1, {? = call [usp_Read_User_CashPoint_UsersMaster](?,2)}

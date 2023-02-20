@@ -1,0 +1,26 @@
+2019-01-06 17:23:15 PS_DBAGENT__system log start (DBAgent01)
+Module list:
+C:\ShaiyaServer\PSM_Client\Bin\ps_dbAgent.exe, loaded at 0x00400000 - 11/09/14 16:20:57
+2019-01-06 17:23:17 ### Connect[5476] : Game[?][0x00E3BC30], Addr=127.0.0.1, DBJobEnd=1
+2019-01-06 17:23:17 ### DB_SYSTEM_CONNECT[4636] :Game[1][0x00E3BC30], Name=Game01, Addr=127.0.0.1
+2019-01-06 17:41:18 1 1 SAgent::Disconnect: (4, 64)
+2019-01-06 17:41:18 1 1 T=000:18:00:000, RC=9,RCS=0, RB=189,RBS=0, SC=12,SCS=0, SB=4439,SBS=4
+2019-01-06 17:41:18 ### Disconnect[4388] : Game[1][0x00E3BC30], Name=Game01, Addr=127.0.0.1, DBJobEnd=0
+2019-01-06 17:41:18 ### PostDispatchDB[4388] : DB_DISPATCHER_EXIT Game[1][0x00E3BC30]
+2019-01-06 17:41:18 ### OnDispatchDB[2252] : => DB_DISPATCHER_EXIT Game[1][0x00E3BC30]
+2019-01-06 17:41:18 3 1 SERVICE_CONTROL_STOP
+2019-01-06 17:41:18 err=-1, [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]ConnectionWrite (send())., SQL STATE: 01000, NATIVE ERROR: 10054 (0x2746)
+2019-01-06 17:41:18 VerifyReConnect : The Connection has been lost, SQLHDBC=3574f8
+2019-01-06 17:41:18 err=-1, [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]ConnectionWrite (send())., SQL STATE: 01000, NATIVE ERROR: 10054 (0x2746)
+2019-01-06 17:41:18 VerifyReConnect : The Connection has been lost, SQLHDBC=356ef0
+2019-01-06 17:41:18 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "PS_GameData" requested by the login. The login failed., SQL STATE: 42000, NATIVE ERROR: 4060 (0xFDC)
+2019-01-06 17:41:18 DBKillCountSave db alloc failed
+2019-01-06 17:41:18 SAVE kill count ERROR
+2019-01-06 17:41:18 ### Save[2252] : Game[1][0x00E3BC30]
+2019-01-06 17:41:18 ### OnDispatchDB[2252] : <= DB_DISPATCHER_EXIT Game[1][0x00E3BC30]
+2019-01-06 17:41:18 err=-1, [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot open database "PS_GameData" requested by the login. The login failed., SQL STATE: 42000, NATIVE ERROR: 4060 (0xFDC)
+2019-01-06 17:41:18 DBKillCountSave db alloc failed
+2019-01-06 17:41:18 SAVE kill count ERROR
+2019-01-06 17:41:18 PS_DBAGENT__system log end (DBAgent01)
+
+2019-01-06 17:41:18 3 1 SService::ServiceCtrlDispatcher(): service shutdown

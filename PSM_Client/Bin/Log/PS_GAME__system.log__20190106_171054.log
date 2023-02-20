@@ -1,0 +1,8 @@
+2019-01-06 17:10:54 PS_GAME__system log start (Game01) [GERMANY]
+2019-01-06 17:10:54 DB gamedef connect error
+2019-01-06 17:10:54 3 1 SService::ServiceCtrlDispatcher(): m_pService->Init()
+2019-01-06 17:10:54 Call save all waiting...
+2019-01-06 17:10:54 Call save all failed dbagent disconnected(user count = 0)...
+2019-01-06 17:10:54 server shutdown Connection INFO : T=000:00:00:000, NumC=0,CMin=0,CMax=0,CAvg=0.00, CAva=0,CReq=0,CCnt=0,DCCnt=0, CTimeT=000:00:00:000,CTimeAvg=000:00:00:000, RBT=0,RBS=0,RBSC=0,SBT=0,SBS=0,SBSC=0
+2019-01-06 17:10:54 PS_GAME__system log end (Game01)
+2019-01-06 17:10:54 3 1 SService::ServiceCtrlDispatcher(): service shutdown

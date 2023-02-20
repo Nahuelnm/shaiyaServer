@@ -1,0 +1,152 @@
+2021-02-04 11:53:59 PS_GAME__system log start (Game01) [KR]
+2021-02-04 11:53:59 Loaded Behavior In Factory : data/ai/sorp1
+2021-02-04 11:53:59 Loaded Behavior In Factory : data/ai/croco1
+2021-02-04 11:53:59 Loaded Behavior In Factory : data/ai/croco2
+2021-02-04 11:53:59 Loaded Behavior In Factory : data/ai/Troll1
+2021-02-04 11:53:59 Loaded Behavior In Factory : data/ai/Spink1
+2021-02-04 11:53:59 Loaded Behavior In Factory : data/ai/GoldenPig
+2021-02-04 11:53:59 Loaded Behavior In Factory : data/ai/Sorp3
+2021-02-04 11:53:59 Loaded Behavior In Factory : data/ai/SorpNamed1
+2021-02-04 11:54:00 Loaded Behavior In Factory : data/ai/SorpNamed2
+2021-02-04 11:54:00 Loaded Behavior In Factory : data/ai/Sorp2
+2021-02-04 11:54:00 Loaded Behavior In Factory : data/ai/CrocoNamed1
+2021-02-04 11:54:00 Loaded Behavior In Factory : data/ai/CrocoNamed2
+2021-02-04 11:54:00 Loaded Behavior In Factory : data/ai/CrocoNamed3
+2021-02-04 11:54:00 Loaded Behavior In Factory : data/ai/OrcNamed1
+2021-02-04 11:54:00 Loaded Behavior In Factory : data/ai/OrcNamed2
+2021-02-04 11:54:00 Loaded Behavior In Factory : data/ai/OrcNamed3
+2021-02-04 11:54:00 Loaded Behavior In Factory : data/ai/TrollNamed1
+2021-02-04 11:54:00 Loaded Behavior In Factory : data/ai/HellTouthNamed1
+2021-02-04 11:54:01 Loaded Behavior In Factory : data/ai/Deinos
+2021-02-04 11:54:01 Loaded Behavior In Factory : data/ai/Parridalis
+2021-02-04 11:54:01 Loaded Behavior In Factory : data/ai/Alcarian
+2021-02-04 11:54:01 Loaded Behavior In Factory : data/ai/ZinAlcaria
+2021-02-04 11:54:01 Loaded Behavior In Factory : data/ai/Belizabeth
+2021-02-04 11:54:01 Loaded Behavior In Factory : data/ai/Kirhiross
+2021-02-04 11:54:01 Loaded Behavior In Factory : data/ai/CrypticOne
+2021-02-04 11:54:12 RandomOption Error : ItemID=1056, byServer=4, Wis=0
+2021-02-04 11:54:12 RandomOption Error : ItemID=7197, byServer=3, Wis=0
+2021-02-04 11:54:12 RandomOption Error : ItemID=7198, byServer=3, Wis=0
+2021-02-04 11:54:12 RandomOption Error : ItemID=7215, byServer=3, Wis=0
+2021-02-04 11:54:12 RandomOption Error : ItemID=7217, byServer=3, Wis=0
+2021-02-04 11:54:12 RandomOption Error : ItemID=7218, byServer=3, Wis=0
+2021-02-04 11:54:12 RandomOption Error : ItemID=7219, byServer=3, Wis=0
+2021-02-04 11:54:12 RandomOption Error : ItemID=7249, byServer=4, Wis=0
+2021-02-04 11:54:12 RandomOption Error : ItemID=7250, byServer=4, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=44039, byServer=5, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=44040, byServer=3, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=44041, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120123, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120124, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120125, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120156, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120157, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120158, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120159, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120160, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120161, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120162, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120163, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120164, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120165, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120166, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120167, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120168, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120169, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120170, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120171, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120172, byServer=2, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120173, byServer=1, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120174, byServer=1, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120175, byServer=1, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120176, byServer=1, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120177, byServer=1, Wis=0
+2021-02-04 11:54:13 RandomOption Error : ItemID=120178, byServer=1, Wis=0
+2021-02-04 11:54:26 connect mgr 1084
+2021-02-04 11:54:26 connect dbagent 1312
+2021-02-04 11:54:26 connect dbagent2 1316
+2021-02-04 11:54:26 connect gamelog 1068
+2021-02-04 11:54:27 Market End -----------------------
+2021-02-04 15:25:45 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-04 15:25:54 1 1 SAgent::Disconnect: (8, 1236)
+2021-02-04 15:25:54 1 1 T=003:31:00:000, RC=3,RCS=0, RB=30,RBS=0, SC=3,SCS=0, SB=77,SBS=0
+2021-02-04 15:25:54 1 1 SAgent::Disconnect: (8, 1236)
+2021-02-04 15:25:54 1 1 T=003:31:00:000, RC=8,RCS=0, RB=4253,RBS=0, SC=6,SCS=0, SB=177,SBS=0
+2021-02-04 15:25:54 1 1 SAgent::Disconnect: (8, 1236)
+2021-02-04 15:25:54 1 1 T=003:31:00:000, RC=0,RCS=0, RB=0,RBS=0, SC=1,SCS=0, SB=37,SBS=0
+2021-02-04 15:25:54 1 1 SAgent::Disconnect: (8, 1236)
+2021-02-04 15:25:54 1 1 T=003:31:00:000, RC=0,RCS=0, RB=0,RBS=0, SC=2,SCS=0, SB=105,SBS=0
+2021-02-04 15:25:54 1 1 SAgent::Disconnect: (8, 1236)
+2021-02-04 15:25:54 1 1 T=003:31:00:000, RC=0,RCS=0, RB=0,RBS=0, SC=1,SCS=0, SB=37,SBS=0
+2021-02-04 15:25:54 discon mgr ((8,1236, 30,77)
+2021-02-04 15:25:54 mgr Connection Lost INFO : T=003:31:00:000, RC=3,RCS=0, RB=30,RBS=0, SC=3,SCS=0, SB=77,SBS=0
+2021-02-04 15:25:54 mgr server disconnection
+2021-02-04 15:25:54 discon gamelog ((8,1236, 0,37)
+2021-02-04 15:25:54 discon userlog ((8,1236, 0,105)
+2021-02-04 15:25:54 gamelog Connection Lost INFO : T=003:31:00:000, RC=0,RCS=0, RB=0,RBS=0, SC=1,SCS=0, SB=37,SBS=0
+2021-02-04 15:25:54 userlog Connection Lost INFO : T=003:31:00:000, RC=0,RCS=0, RB=0,RBS=0, SC=2,SCS=0, SB=105,SBS=0
+2021-02-04 15:25:54 discon dbagent2 ((8,1236, 0,37)
+2021-02-04 15:25:54 userlog log server disconnection
+2021-02-04 15:25:54 game log server disconnection
+2021-02-04 15:25:54 discon dbagent ((8,1236, 4253,177)
+2021-02-04 15:25:54 dbagent2 Connection Lost INFO : T=003:31:00:000, RC=0,RCS=0, RB=0,RBS=0, SC=1,SCS=0, SB=37,SBS=0
+2021-02-04 15:25:54 dbagent Connection Lost INFO : T=003:31:00:000, RC=8,RCS=0, RB=4253,RBS=0, SC=6,SCS=0, SB=177,SBS=0
+2021-02-04 15:25:54 db agent2 server disconnected...
+2021-02-04 15:25:54 db agent server disconnected...
+2021-02-04 15:25:54 call disconnectAll...
+2021-02-04 15:25:54 m_bReSession ok
+2021-02-04 15:25:54 m_bReDBAgent ok
+2021-02-04 15:25:54 m_bReDBAgent2 ok
+2021-02-04 15:25:54 m_bReUserlog ok
+2021-02-04 15:25:54 m_bReGamelog ok
+2021-02-04 15:25:55 Market End -----------------------
+2021-02-04 16:25:47 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-04 17:25:50 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-04 18:25:52 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-04 19:25:55 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-04 20:25:57 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-04 21:26:00 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-04 22:26:03 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-04 23:26:06 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-05 00:26:09 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-05 01:26:11 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-05 02:26:14 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-05 03:26:17 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-05 04:26:20 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-05 05:26:23 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-05 06:26:25 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-05 07:26:28 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-05 08:26:31 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-05 12:13:29 InsZone Count : CurAll(0), GuildHouse(cur=0,max=0), GuildRank(cur=0,max=0), Party(cur=0,max=0)
+2021-02-05 12:13:38 1 1 SAgent::Disconnect: (8, 1236)
+2021-02-05 12:13:38 1 1 T=020:47:00:000, RC=213,RCS=0, RB=871,RBS=0, SC=212,SCS=0, SB=913,SBS=0
+2021-02-05 12:13:38 1 1 SAgent::Disconnect: (8, 1236)
+2021-02-05 12:13:38 1 1 T=020:47:00:000, RC=217,RCS=0, RB=5089,RBS=0, SC=315,SCS=0, SB=2133,SBS=0
+2021-02-05 12:13:38 1 1 SAgent::Disconnect: (8, 1236)
+2021-02-05 12:13:38 1 1 T=020:47:00:000, RC=209,RCS=0, RB=836,RBS=0, SC=210,SCS=0, SB=873,SBS=0
+2021-02-05 12:13:38 1 1 SAgent::Disconnect: (8, 1236)
+2021-02-05 12:13:38 1 1 T=020:47:00:000, RC=209,RCS=0, RB=836,RBS=0, SC=210,SCS=0, SB=873,SBS=0
+2021-02-05 12:13:38 1 1 SAgent::Disconnect: (8, 1236)
+2021-02-05 12:13:38 1 1 T=020:47:00:000, RC=209,RCS=0, RB=836,RBS=0, SC=210,SCS=0, SB=873,SBS=0
+2021-02-05 12:13:38 discon mgr ((8,1236, 871,913)
+2021-02-05 12:13:38 discon userlog ((8,1236, 836,873)
+2021-02-05 12:13:38 discon gamelog ((8,1236, 836,873)
+2021-02-05 12:13:38 mgr Connection Lost INFO : T=020:47:00:000, RC=213,RCS=0, RB=871,RBS=0, SC=212,SCS=0, SB=913,SBS=0
+2021-02-05 12:13:38 gamelog Connection Lost INFO : T=020:47:00:000, RC=209,RCS=0, RB=836,RBS=0, SC=210,SCS=0, SB=873,SBS=0
+2021-02-05 12:13:38 userlog Connection Lost INFO : T=020:47:00:000, RC=209,RCS=0, RB=836,RBS=0, SC=210,SCS=0, SB=873,SBS=0
+2021-02-05 12:13:38 discon dbagent2 ((8,1236, 836,873)
+2021-02-05 12:13:38 userlog log server disconnection
+2021-02-05 12:13:38 discon dbagent ((8,1236, 5089,2133)
+2021-02-05 12:13:38 game log server disconnection
+2021-02-05 12:13:38 dbagent Connection Lost INFO : T=020:47:00:000, RC=217,RCS=0, RB=5089,RBS=0, SC=315,SCS=0, SB=2133,SBS=0
+2021-02-05 12:13:38 dbagent2 Connection Lost INFO : T=020:47:00:000, RC=209,RCS=0, RB=836,RBS=0, SC=210,SCS=0, SB=873,SBS=0
+2021-02-05 12:13:38 db agent2 server disconnected...
+2021-02-05 12:13:38 db agent server disconnected...
+2021-02-05 12:13:38 mgr server disconnection
+2021-02-05 12:13:38 call disconnectAll...
+2021-02-05 12:13:38 m_bReSession ok
+2021-02-05 12:13:38 m_bReDBAgent ok
+2021-02-05 12:13:38 m_bReDBAgent2 ok
+2021-02-05 12:13:38 m_bReUserlog ok
+2021-02-05 12:13:38 m_bReGamelog ok
+2021-02-05 12:13:48 Market End -----------------------

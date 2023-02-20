@@ -1,0 +1,5 @@
+2019-01-06 17:09:37 PS_USERLOG__system log start (UserLog)
+2019-01-06 17:09:37 DB userlog connect error, Server=127.0.0.1, DBName=PS_UserData, User=Shaiya, Pass=shaiya123
+2019-01-06 17:09:37 3 1 SService::ServiceCtrlDispatcher(): m_pService->Init()
+2019-01-06 17:09:37 PS_USERLOG__system log end (UserLog)
+2019-01-06 17:09:37 3 1 SService::ServiceCtrlDispatcher(): service shutdown

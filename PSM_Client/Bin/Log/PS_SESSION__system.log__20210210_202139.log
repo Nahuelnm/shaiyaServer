@@ -1,0 +1,19 @@
+2021-02-10 20:21:39 PS_SESSION__system log start (Session)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_session.exe, loaded at 0x00400000 - 11/09/14 16:30:56
+2021-02-10 20:21:55 connect login
+2021-02-10 20:22:04 connect game
+2021-02-10 22:00:54 [Apocalipsis] NewUser Enter : Char=[GM]Nitrous, Lv=70, Map=70, X=1481.1, Z=184.6
+2021-02-10 22:24:26 1 1 SAgent::Disconnect: (4, 64)
+2021-02-10 22:24:26 1 1 T=002:02:00:000, RC=764,RCS=0, RB=6255,RBS=0, SC=35,SCS=0, SB=273,SBS=0
+2021-02-10 22:24:26 disconnect login
+2021-02-10 22:24:29 3 1 SERVICE_CONTROL_STOP
+2021-02-10 22:24:38 [Apocalipsis] NewUser Leave : Char=[GM]Nitrous, Lv=70, Map=69, X=1888.0, Z=1806.1
+2021-02-10 22:24:39 1 1 SAgent::Disconnect: (4, 64)
+2021-02-10 22:24:39 1 1 T=002:02:00:000, RC=35,RCS=0, RB=791,RBS=0, SC=29,SCS=0, SB=320,SBS=0
+2021-02-10 22:24:39 disconnect game
+2021-02-10 22:24:40 1 1 SAgent::Disconnect: (3, 1236)
+2021-02-10 22:24:40 1 1 T=002:03:00:000, RC=24,RCS=0, RB=96,RBS=0, SC=25,SCS=0, SB=133,SBS=0
+2021-02-10 22:24:40 log system server disconnection
+2021-02-10 22:24:40 PS_SESSION__system log end (Session)
+2021-02-10 22:24:40 3 1 SService::ServiceCtrlDispatcher(): service shutdown

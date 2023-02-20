@@ -1,0 +1,215 @@
+2022-10-22 12:10:46 PS_LOGIN__system log start (Login01)
+2022-10-22 13:10:59 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-22 13:10:59 T=001:00:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=2,CReq=2,CCnt=2,DCCnt=2, CTimeT=000:00:00:000,CTimeAvg=000:00:00:000, RBT=337,RBS=0,RBSC=6,SBT=476,SBS=0,SBSC=8
+2022-10-22 13:10:59 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-22 14:11:03 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-22 14:11:03 T=002:00:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=2,CReq=2,CCnt=2,DCCnt=2, CTimeT=000:00:00:000,CTimeAvg=000:00:00:000, RBT=337,RBS=0,RBSC=6,SBT=476,SBS=0,SBSC=8
+2022-10-22 14:11:03 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-22 15:11:06 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-22 15:11:06 T=003:00:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=2,CReq=2,CCnt=2,DCCnt=2, CTimeT=000:00:00:000,CTimeAvg=000:00:00:000, RBT=337,RBS=0,RBSC=6,SBT=476,SBS=0,SBSC=8
+2022-10-22 15:11:06 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-22 15:56:03 <Console input> /vchkoff
+2022-10-22 15:56:03 <Console output> cmd version chk off ok
+2022-10-22 16:11:09 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-22 16:11:09 T=004:00:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=13,CReq=13,CCnt=13,DCCnt=13, CTimeT=000:03:00:000,CTimeAvg=000:00:00:000, RBT=2217,RBS=0,RBSC=10,SBT=3081,SBS=0,SBSC=13
+2022-10-22 16:11:09 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-22 17:11:12 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-22 17:11:12 T=005:00:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=13,CReq=13,CCnt=13,DCCnt=13, CTimeT=000:03:00:000,CTimeAvg=000:00:00:000, RBT=2217,RBS=0,RBSC=10,SBT=3081,SBS=0,SBSC=13
+2022-10-22 17:11:12 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-22 18:11:15 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-22 18:11:15 T=006:00:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=13,CReq=13,CCnt=13,DCCnt=13, CTimeT=000:03:00:000,CTimeAvg=000:00:00:000, RBT=2217,RBS=0,RBSC=10,SBT=3081,SBS=0,SBSC=13
+2022-10-22 18:11:15 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-22 19:11:19 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-22 19:11:19 T=007:00:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=13,CReq=13,CCnt=13,DCCnt=13, CTimeT=000:03:00:000,CTimeAvg=000:00:00:000, RBT=2217,RBS=0,RBSC=10,SBT=3081,SBS=0,SBSC=13
+2022-10-22 19:11:19 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-22 20:11:22 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-22 20:11:22 T=008:00:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=13,CReq=13,CCnt=13,DCCnt=13, CTimeT=000:03:00:000,CTimeAvg=000:00:00:000, RBT=2217,RBS=0,RBSC=10,SBT=3081,SBS=0,SBSC=13
+2022-10-22 20:11:22 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-22 21:11:25 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-22 21:11:25 T=009:00:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=13,CReq=13,CCnt=13,DCCnt=13, CTimeT=000:03:00:000,CTimeAvg=000:00:00:000, RBT=2217,RBS=0,RBSC=10,SBT=3081,SBS=0,SBSC=13
+2022-10-22 21:11:25 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-22 22:11:28 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-22 22:11:28 T=010:00:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=13,CReq=13,CCnt=13,DCCnt=13, CTimeT=000:03:00:000,CTimeAvg=000:00:00:000, RBT=2217,RBS=0,RBSC=10,SBT=3081,SBS=0,SBSC=13
+2022-10-22 22:11:28 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-22 23:11:31 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-22 23:11:31 T=011:00:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=13,CReq=13,CCnt=13,DCCnt=13, CTimeT=000:03:00:000,CTimeAvg=000:00:00:000, RBT=2217,RBS=0,RBSC=10,SBT=3081,SBS=0,SBSC=13
+2022-10-22 23:11:31 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-23 10:02:31 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-23 10:02:31 T=021:51:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=13,CReq=13,CCnt=13,DCCnt=13, CTimeT=000:03:00:000,CTimeAvg=000:00:00:000, RBT=2217,RBS=0,RBSC=10,SBT=3081,SBS=0,SBSC=13
+2022-10-23 10:02:31 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-23 10:03:21 1 1 SAgent::Disconnect: (8, 1236)
+2022-10-23 10:03:21 1 1 T=021:52:00:000, RC=153,RCS=0, RB=777,RBS=0, SC=4263,SCS=0, SB=34175,SBS=0
+2022-10-23 10:03:21 1 1 SAgent::Disconnect: (8, 1236)
+2022-10-23 10:03:21 1 1 T=021:52:00:000, RC=137,RCS=0, RB=548,RBS=0, SC=138,SCS=0, SB=585,SBS=0
+2022-10-23 10:03:21 log system server disconnection
+2022-10-23 10:03:21 mgr server disconnection
+2022-10-23 10:03:21 m_bReSession ok
+2022-10-23 10:03:21 m_bReUserlog ok
+2022-10-23 11:02:37 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-23 11:02:37 T=022:51:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=13,CReq=13,CCnt=13,DCCnt=13, CTimeT=000:03:00:000,CTimeAvg=000:00:00:000, RBT=2217,RBS=0,RBSC=10,SBT=3081,SBS=0,SBSC=13
+2022-10-23 11:02:37 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=0(1024/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=0(1024/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-23 12:02:41 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-23 12:02:41 T=023:51:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=13,CReq=13,CCnt=13,DCCnt=13, CTimeT=000:03:00:000,CTimeAvg=000:00:00:000, RBT=2217,RBS=0,RBSC=10,SBT=3081,SBS=0,SBSC=13
+2022-10-23 12:02:41 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-23 13:02:44 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-23 13:02:44 T=024:51:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=13,CReq=13,CCnt=13,DCCnt=13, CTimeT=000:03:00:000,CTimeAvg=000:00:00:000, RBT=2217,RBS=0,RBSC=10,SBT=3081,SBS=0,SBSC=13
+2022-10-23 13:02:44 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-23 14:02:47 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-23 14:02:47 T=025:51:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=13,CReq=13,CCnt=13,DCCnt=13, CTimeT=000:03:00:000,CTimeAvg=000:00:00:000, RBT=2217,RBS=0,RBSC=10,SBT=3081,SBS=0,SBSC=13
+2022-10-23 14:02:47 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2022-10-23 15:02:50 cmd_auto server info log
+ user = 0 (0/3000)
+2022-10-23 15:02:50 T=026:52:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=14,CReq=14,CCnt=14,DCCnt=14, CTimeT=000:04:00:000,CTimeAvg=000:00:00:000, RBT=2411,RBS=0,RBSC=9,SBT=3358,SBS=0,SBSC=12
+2022-10-23 15:02:50 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)

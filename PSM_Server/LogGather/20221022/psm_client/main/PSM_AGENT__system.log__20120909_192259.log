@@ -1,0 +1,19 @@
+2012-09-09 19:22:59 PSM_AGENT__system log start (PS_AGENT)
+2012-09-09 19:23:58 Update start 127.0.0.1:40901...
+2012-09-09 19:24:03 download error file list
+2012-09-09 19:24:03 download error file list
+2012-09-09 19:24:04 download error file list
+2012-09-09 19:24:04 Update complete...
+2012-09-09 19:26:26 Update start 127.0.0.1:40901...
+2012-09-09 19:26:29 download error file list
+2012-09-09 19:26:29 download error file list
+2012-09-09 19:26:29 download error file list
+2012-09-09 19:26:29 Update complete...
+2012-09-09 19:34:42 Update start 127.0.0.1:40901...
+2012-09-09 19:34:45 download error file list
+2012-09-09 19:34:45 download error file list
+2012-09-09 19:34:45 download error file list
+2012-09-09 19:34:45 Update complete...
+2012-09-09 20:11:27 3 1 SERVICE_CONTROL_STOP
+2012-09-09 20:11:27 PSM_AGENT__system log end (PS_AGENT)
+2012-09-09 20:11:27 3 1 SService::ServiceCtrlDispatcher(): service shutdown

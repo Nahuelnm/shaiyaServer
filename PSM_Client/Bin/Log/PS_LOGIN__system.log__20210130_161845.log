@@ -1,0 +1,24 @@
+2021-01-30 16:18:45 PS_LOGIN__system log start (Login01)
+2021-01-30 16:18:57 <Console input> /vchkoff
+2021-01-30 16:18:57 <Console output> cmd version chk off ok
+2021-01-30 17:18:58 cmd_auto server info log
+ user = 0 (0/3000)
+2021-01-30 17:18:58 T=001:00:00:000, NumC=0,CMin=0,CMax=1,CAvg=0.00, CAva=3,CReq=3,CCnt=3,DCCnt=3, CTimeT=000:00:00:000,CTimeAvg=000:00:00:000, RBT=531,RBS=0,RBSC=11,SBT=753,SBS=0,SBSC=15
+2021-01-30 17:18:58 SContext=2(1022/1024)
+SContextSend=0(1024/1024)
+SContextAccept=0(0/0)
+SPacketBufferSendS=1(1023/1024)
+SPacketBufferSendM=0(1024/1024)
+SPacketBufferSendB=2(1022/1024)
+SSyncQueueBufferSend::SQueueSendNode=1(1023/1024)
+SSyncQueueBufferPriority::SQueuePrioritySendNode=0(0/0)
+SSyncQueueStatus::SQueueStatusNode=0(1024/1024)
+2021-01-30 18:13:32 3 1 SERVICE_CONTROL_STOP
+2021-01-30 18:13:32 1 1 SAgent::Disconnect: (3, 1236)
+2021-01-30 18:13:32 1 1 T=001:54:00:000, RC=40,RCS=0, RB=327,RBS=0, SC=720,SCS=0, SB=6101,SBS=0
+2021-01-30 18:13:32 1 1 SAgent::Disconnect: (3, 1236)
+2021-01-30 18:13:32 1 1 T=001:54:00:000, RC=22,RCS=0, RB=88,RBS=0, SC=23,SCS=0, SB=125,SBS=0
+2021-01-30 18:13:32 mgr server disconnection
+2021-01-30 18:13:32 log system server disconnection
+2021-01-30 18:13:32 PS_LOGIN__system log end (Login01)
+2021-01-30 18:13:32 3 1 SService::ServiceCtrlDispatcher(): service shutdown

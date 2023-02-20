@@ -1,0 +1,37 @@
+2021-02-04 11:53:47 PS_SESSION__system log start (Session)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_session.exe, loaded at 0x00400000 - 11/09/14 16:30:56
+2021-02-04 11:54:07 connect login
+2021-02-04 11:54:27 connect game
+2021-02-04 15:25:54 1 1 SAgent::Disconnect: (4, 64)
+2021-02-04 15:25:54 1 1 T=003:31:00:000, RC=3,RCS=0, RB=77,RBS=0, SC=3,SCS=0, SB=30,SBS=0
+2021-02-04 15:25:54 disconnect game
+2021-02-04 15:25:54 1 1 SAgent::Disconnect: (4, 0)
+2021-02-04 15:25:54 1 1 T=000:00:00:000, RC=0,RCS=0, RB=0,RBS=0, SC=0,SCS=0, SB=0,SBS=0
+2021-02-04 15:25:54 connect game
+2021-02-04 15:26:35 1 1 SAgent::Disconnect: (4, 64)
+2021-02-04 15:26:35 1 1 T=003:32:00:000, RC=13,RCS=0, RB=153,RBS=0, SC=7,SCS=0, SB=179,SBS=0
+2021-02-04 15:26:35 disconnect login
+2021-02-04 15:26:35 1 1 SAgent::Disconnect: (4, 0)
+2021-02-04 15:26:35 1 1 T=000:00:00:000, RC=0,RCS=0, RB=0,RBS=0, SC=0,SCS=0, SB=0,SBS=0
+2021-02-04 15:26:35 connect login
+2021-02-04 15:29:14 1 1 SAgent::Disconnect: (4, 64)
+2021-02-04 15:29:14 1 1 T=003:35:00:000, RC=0,RCS=0, RB=0,RBS=0, SC=1,SCS=0, SB=37,SBS=0
+2021-02-04 15:29:14 log system server disconnection
+2021-02-04 15:29:15 m_bReUserlog ok
+2021-02-05 12:13:38 1 1 SAgent::Disconnect: (4, 64)
+2021-02-05 12:13:38 1 1 T=020:47:00:000, RC=212,RCS=0, RB=913,RBS=0, SC=213,SCS=0, SB=871,SBS=0
+2021-02-05 12:13:38 disconnect game
+2021-02-05 12:13:38 1 1 SAgent::Disconnect: (4, 997)
+2021-02-05 12:13:38 1 1 T=000:00:00:000, RC=0,RCS=0, RB=0,RBS=0, SC=0,SCS=0, SB=0,SBS=0
+2021-02-05 12:13:38 connect game
+2021-02-05 12:13:51 1 1 SAgent::Disconnect: (4, 64)
+2021-02-05 12:13:51 1 1 T=020:44:00:000, RC=208,RCS=0, RB=832,RBS=0, SC=209,SCS=0, SB=869,SBS=0
+2021-02-05 12:13:51 log system server disconnection
+2021-02-05 12:13:52 1 1 SAgent::Disconnect: (8, 1236)
+2021-02-05 12:13:52 1 1 T=020:47:00:000, RC=6493,RCS=0, RB=51157,RBS=0, SC=214,SCS=0, SB=957,SBS=0
+2021-02-05 12:13:52 disconnect login
+2021-02-05 12:13:59 1 1 SAgent::Disconnect: (4, 10038)
+2021-02-05 12:13:59 1 1 T=000:00:00:000, RC=0,RCS=0, RB=0,RBS=0, SC=0,SCS=0, SB=0,SBS=0
+2021-02-05 12:13:59 connect login
+2021-02-05 12:13:59 m_bReUserlog ok

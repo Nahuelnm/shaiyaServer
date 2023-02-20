@@ -1,0 +1,4 @@
+2021-01-30 16:17:33 PS_USERLOG__system log start (UserLog)
+2021-01-30 16:18:07 3 1 SERVICE_CONTROL_STOP
+2021-01-30 16:18:07 PS_USERLOG__system log end (UserLog)
+2021-01-30 16:18:07 3 1 SService::ServiceCtrlDispatcher(): service shutdown

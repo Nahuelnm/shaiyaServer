@@ -1,0 +1,14 @@
+2019-01-06 17:09:43 PS_DBAGENT__system log start (DBAgent01)
+2019-01-06 17:09:43 DB gamedata connect error
+2019-01-06 17:09:43 3 1 SService::ServiceCtrlDispatcher(): m_pService->Init()
+2019-01-06 17:09:43 DBKillCountSave db alloc failed
+2019-01-06 17:09:43 SAVE kill count ERROR
+2019-01-06 17:09:43 CKeepObeliskMgr::DBSave db alloc failed
+2019-01-06 17:09:43 SAVE g_KeepObeliskMgr ERROR
+2019-01-06 17:09:43 GuildMgrSave::DBSave db alloc failed
+2019-01-06 17:09:43 SAVE g_GuildMgrSave ERROR
+2019-01-06 17:09:43 CMarketMgr::DBSaveMarket db alloc failed
+2019-01-06 17:09:43 CMarketMgr::DBSave ERROR
+2019-01-06 17:09:43 PS_DBAGENT__system log end (DBAgent01)
+
+2019-01-06 17:09:43 3 1 SService::ServiceCtrlDispatcher(): service shutdown

@@ -1,0 +1,17 @@
+2021-01-31 02:41:49 PS_SESSION__system log start (Session)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_session.exe, loaded at 0x00400000 - 11/09/14 16:30:56
+2021-01-31 02:41:59 connect login
+2021-01-31 02:42:09 connect game
+2021-01-31 02:51:04 1 1 SAgent::Disconnect: (4, 64)
+2021-01-31 02:51:04 1 1 T=000:09:00:000, RC=57,RCS=0, RB=501,RBS=0, SC=5,SCS=0, SB=119,SBS=0
+2021-01-31 02:51:04 disconnect login
+2021-01-31 02:51:04 1 1 SAgent::Disconnect: (4, 64)
+2021-01-31 02:51:04 1 1 T=000:08:00:000, RC=4,RCS=0, RB=81,RBS=0, SC=4,SCS=0, SB=34,SBS=0
+2021-01-31 02:51:04 disconnect game
+2021-01-31 02:51:04 3 1 SERVICE_CONTROL_STOP
+2021-01-31 02:51:04 1 1 SAgent::Disconnect: (3, 1236)
+2021-01-31 02:51:04 1 1 T=000:09:00:000, RC=1,RCS=0, RB=4,RBS=0, SC=2,SCS=0, SB=41,SBS=0
+2021-01-31 02:51:04 log system server disconnection
+2021-01-31 02:51:04 PS_SESSION__system log end (Session)
+2021-01-31 02:51:04 3 1 SService::ServiceCtrlDispatcher(): service shutdown

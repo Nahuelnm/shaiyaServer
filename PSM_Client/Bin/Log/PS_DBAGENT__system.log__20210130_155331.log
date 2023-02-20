@@ -1,0 +1,24 @@
+2021-01-30 15:53:31 PS_DBAGENT__system log start (DBAgent01)
+Module list:
+D:\ShaiyaServer\PSM_Client\Bin\ps_dbAgent.exe, loaded at 0x00400000 - 11/09/14 16:20:57
+2021-01-30 15:53:42 ### Connect[5244] : Game[?][0x00F18C38], Addr=127.0.0.1, DBJobEnd=1
+2021-01-30 15:53:42 ### Connect[5244] : Game[?][0x01440E68], Addr=127.0.0.1, DBJobEnd=2
+2021-01-30 15:53:42 Error Packet : 0x209, CConnection::PacketSystemConnect
+2021-01-30 15:53:42 ### DB_SYSTEM_CONNECT[6532] :Game[1][0x00F18C38], Name=Game01, Addr=127.0.0.1
+2021-01-30 15:55:46 1 1 SAgent::Disconnect: (4, 64)
+2021-01-30 15:55:46 1 1 T=000:02:00:000, RC=5,RCS=0, RB=165,RBS=1, SC=8,SCS=0, SB=4253,SBS=34
+2021-01-30 15:55:46 1 1 SAgent::Disconnect: (4, 64)
+2021-01-30 15:55:46 ### Disconnect[6532] : Game[1][0x00F18C38], Name=Game01, Addr=127.0.0.1, DBJobEnd=1
+2021-01-30 15:55:46 1 1 T=000:02:00:000, RC=1,RCS=0, RB=37,RBS=0, SC=0,SCS=0, SB=0,SBS=0
+2021-01-30 15:55:46 ### PostDispatchDB[6532] : DB_DISPATCHER_EXIT Game[1][0x00F18C38]
+2021-01-30 15:55:46 ### Disconnect[3604] : Game[0][0x01440E68], Name=, Addr=127.0.0.1, DBJobEnd=0
+2021-01-30 15:55:46 ### PostDispatchDB[3604] : DB_DISPATCHER_EXIT Game[0][0x01440E68]
+2021-01-30 15:55:46 ### OnDispatchDB[4156] : => DB_DISPATCHER_EXIT Game[0][0x01440E68]
+2021-01-30 15:55:46 ### OnDispatchDB[4156] : <= DB_DISPATCHER_EXIT Game[0][0x01440E68]
+2021-01-30 15:55:46 ### OnDispatchDB[3544] : => DB_DISPATCHER_EXIT Game[1][0x00F18C38]
+2021-01-30 15:55:46 ### Save[3544] : Game[1][0x00F18C38]
+2021-01-30 15:55:46 ### OnDispatchDB[3544] : <= DB_DISPATCHER_EXIT Game[1][0x00F18C38]
+2021-01-30 15:55:46 3 1 SERVICE_CONTROL_STOP
+2021-01-30 15:55:46 PS_DBAGENT__system log end (DBAgent01)
+
+2021-01-30 15:55:46 3 1 SService::ServiceCtrlDispatcher(): service shutdown
